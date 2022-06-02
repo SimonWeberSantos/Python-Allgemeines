@@ -6,7 +6,8 @@ artikelstamm = {
     "102":"Birne",
     "103":"Pfirsich",
     "104":"Orange",
-    "105":"Mandarine"
+    "105":"Mandarine",
+    "106":"Pflaume"
     }
 
 art = False
