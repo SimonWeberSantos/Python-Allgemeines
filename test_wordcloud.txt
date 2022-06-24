@@ -1,0 +1,997 @@
+
+
+Impressum
+Dieser Titel enthält Lösungsvorschläge zu den Verständnisfragen aus «Wirtschaft und Recht – Grundlagen», Ausgabe 2016, mit der ISBN 978-3-306-451392-1.
+Redaktion: Sabine Schneider Gesamtgestaltung: LemmeDESIGN, Berlin www.cornelsen.ch
+© 2016 Cornelsen Schulverlage GmbH, Berlin
+Alle Rechte vorbehalten. Das Werk und seine Teile sind urheberrechtlich geschützt.  Jede Verwertung in anderen als den gesetzlich zugelassenen Fällen bedarf deshalb der vorherigen schriftlichen Einwilligung des Verlags.
+ISBN: 978-3-06-451393-8
+3
+INHALT 
+
+Kapitel Lehrbuch Lösungen Seite SeiteBetriebswirtschaft
+Verständnisfragen und Lösungen zu
+I Beginn der Unternehmenstätigkeit  . . . . . . . . . . . 28 . . . . . . . . . . . 5
+Verständnisfragen und Lösungen zu 
+II Unternehmensführung . . . . . . . . . . . . . . . . . . . . . . . . 38 . . . . . . . . . . . 7
+Verständnisfragen und Lösungen zu 
+III Produkt- und Marktziele  . . . . . . . . . . . . . . . . . . . . . . 52 . . . . . . . . . . . 8
+Verständnisfragen und Lösungen zu 
+IV Leistungserstellung . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58 . . . . . . . . . . . 9
+Verständnisfragen und Lösungen zu 
+V Absatzverfahren  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70 . . . . . . . . . . . 10
+Verständnisfragen und Lösungen zu 
+VI Finanzwesen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84 . . . . . . . . . . . 12
+Verständnisfragen und Lösungen zu 
+VII Organisation, Personalwesen  und Sozialversicherungen . . . . . . . . . . . . . . . . . . . . . 104 . . . . . . . . . . 16
+Volkswirtschaftslehre
+Verständnisfragen und Lösungen zu 
+I Fragestellungen und Methoden  . . . . . . . . . . . . . . . 112 	  . . . . . . . . . . 18
+Verständnisfragen und Lösungen zu 
+II Produktion, Wachstum und Umwelt  . . . . . . . . . . 126 . . . . . . . . . . 20
+Verständnisfragen und Lösungen zu 
+III Angebot und Nachfrage  . . . . . . . . . . . . . . . . . . . . . . . 136 . . . . . . . . . . 22
+Verständnisfragen und Lösungen zu
+IV Wirtschaftssystem und  
+Wirtschaftsordnung  . . . . . . . . . . . . . . . . . . . . . . . . . . . 144 . . . . . . . . . . 25
+Verständnisfragen und Lösungen zu
+V Wirtschaftspolitik  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 154 . . . . . . . . . . 28
+4
+INHALT 
+
+	Kapitel 	Lehrbuch 	Lösungen
+	 	Seite 	Seite
+Verständnisfragen und Lösungen zu 
+VI Geld- und Finanzsystem . . . . . . . . . . . . . . . . . . . . . . . 166 . . . . . . . . . . 32
+Verständnisfragen und Lösungen zu
+VII Konjunktur  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 178 . . . . . . . . . . 34
+Verständnisfragen und Lösungen zu
+VIII Weltwirtschaft . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 192 . . . . . . . . . . 35
+Verständnisfragen und Lösungen zu IX 	Schweizerische Volkswirtschaft:  
+Einzelaspekte  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 200  . . . . . . . . . 37
+Recht
+Verständnisfragen und Lösungen zu 
+I Staat und Gesellschaft  . . . . . . . . . . . . . . . . . . . . . . . . . 214 . . . . . . . . . . 40
+Verständnisfragen und Lösungen zu 
+II Das Privatrecht im Allgemeinen . . . . . . . . . . . . . . . 218 . . . . . . . . . . 41
+Verständnisfragen und Lösungen zu 
+III Das Personenrecht . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 228  . . . . . . . . . 42
+Verständnisfragen und Lösungen zu
+IV Das Familienrecht  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 240 	  . . . . . . . . . 43
+Verständnisfragen und Lösungen zu 
+V Das Erbrecht  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 250  . . . . . . . . . 44
+Verständnisfragen und Lösungen zu
+VI Das Obligationenrecht . . . . . . . . . . . . . . . . . . . . . . . . . 273 . . . . . . . . . . 46
+Verständnisfragen und Lösungen zu 
+VII Die zwangsweise Durchsetzung  von Zivilansprüchen . . . . . . . . . . . . . . . . . . . . . . . . . . . 282  . . . . . . . . . 50 
+Verständnisfragen und Lösungen zu 
+VIII Das Strafrecht . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 305  . . . . . . . . . 51
+
+Verständnisfragen und Lösungen zu	? S. 28
+I 	Beginn der Unternehmenstätigkeit
+1. Nennen Sie die einzelnen Phasen eines Problemlösungsprozesses und führen Sie d iese anhand eines eigenen Beispiels aus.
+ 	Problemlöseschema (s. Lehrmittel S. 13) anwenden
+ 	1. 	Ausgangslage analysieren
+a Problem erkennen
+b Problem beschreiben und die Ursachen analysieren
+c Problem beurteilen, ob eine Lösung angestrebt werden soll oder nicht
+2. Ziele festlegen
+3. Alternativen festlegen und diejenige auswählen, die der Problemlösung am nächsten steht
+4. Mittel und Verfahren für die gewählte Alternative festlegen
+5. Realisierung
+6. Überprüfung
+ 	Individuelle Lösungen anhand eines Beispiels
+Zu 1.a – c Ausgangslage: Im Fach X habe ich die zweite ungenügende Note in Serie erhalten. Die Durchschnitte in den Fächern X und Y sind ungenügend. In letzter Zeit waren für mich ausserschulische Aktivitäten wichtig; ich habe weniger Zeit zum Lernen aufgewendet. Wenn ich mich nicht mehr anstrenge und ich bis Ende Semester nicht einen genügenden 
+Schnitt im Fach X und Y erreiche, ist meine nächste Promotion gefährdet. So laufe ich Gefahr, Ende Semester ein ungenügendes Zeugnis zu erhalten, was meine Motivation noch mehr sinken lässt. Wenn ich im darauf folgenden Semester nochmals ungenügend bin, muss ich repetieren. Ich würde ein Jahr verlieren, müsste die Klasse wechseln. Dies möchte ich verhindern. Ich muss also intensiver und häufiger lernen.
+Zu 2. 	Bis Ende Semester bin ich in den Fächern X und Y genügend. Im nächsten Zeugnis ist meine Promotion nicht gefährdet.
+Zu 3. 	Alternative I: Intensiver und häufiger lernen.
+ 	Alternative II: Intensiver und häufiger lernen, Aufgaben mit Kolleginnen und Kollegen besprechen.
+ 	Alternative III: Intensiver und häufiger lernen; dazu Nachhilfeunterricht in den Fächern X und Y bei Frau F nehmen (mind. 1 x 2 Stunden pro Woche). Alternative III ist für mich am erfolgversprechendsten, da ich erstens zu bestimmten Zeiten gezwungen sein werde, mit Frau F zu lernen, zweitens mich auch gegenüber Frau F verpflichtet fühle und drittens professionelle Hilfe den grössten Erfolg verspricht.
+Zu 4. 	Budgetierte Kosten für die Nachhilfe bei Frau F: … Franken/Monat. Zeit- und Repetitionsplan für die Nachhilfe und das individuelle Lernen erstellen. Lern- und Nachhilfeort festlegen. Zusätzlich erstelle ich Karteikärtchen und repetiere regelmässig den in der Nachhilfe und in der Schule behandelten Stoff.
+Zu 5. 	Handeln gemäss Plänen. Lernen, Nachhilfe- und Schulunterricht regelmässig besuchen, repetieren.
+Zu 6. 	Die Überprüfung findet kurzfristig bereits anhand der nächsten Proben statt, längerfristig am Ende des Semesters mit dem Erhalt des Zeugnisses.
+2. Definieren Sie die Begriffe Bedürfnisse, Gewinn, Produktionsfaktoren.
+ 	Bedürfnisse:  	Mangelempfindungen/Ursachen des wirtschaftlichen Handelns.  
+	Gewinn:  	Ertrag ist grösser als Aufwand.
+ 	Produktionsfaktoren:  Menschliche Arbeitskraft, Betriebsmittel, Werkstoffe und  Informationen/ Ressourcen (müssen planmässig und systematisch kombiniert werden).
+3. Formulieren Sie ein Beispiel aus dem Schulalltag, bei dem Sie sich nach Maximum- oder Minimumprinzip verhalten.
+ 	Maximumprinzip:  M it 4 Stunden Aufwand (Input fix) versuche ich die bestmögliche Note zu erreichen (Output).
+ 	Minimumprinzip: 	I ch will gerade eine 4 erreichen (Output fix) und versuche dies mit möglichst wenig Aufwand (Input) zu tun.
+4. Nennen Sie mögliche Kriterien, nach denen sich Unternehmen unterscheiden lassen. Nach Grösse (Anzahl Beschäftigte, Bilanzsumme, Umsatz), nach Tätigkeitsgebieten (Sektoren, Branchen), nach Eigentumsverhältnissen, Rechtsformen, regionaler/nationaler/ internationaler Ausrichtung, mit oder ohne Filialnetz.
+5. Nehmen Sie drei Ihnen bekannte Unternehmen und versuchen Sie die wichtigsten Standortfaktoren herauszufinden.
+	 	Individuelle Antworten unter Berücksichtigung von Abb. 8 im Lehrbuch S. 21
+6. Beschreiben Sie die wichtigsten Vor- und Nachteile des Einzelunternehmens, der, Aktiengesellschaft und GmbH in Tabellenform (nach unterschiedlichen Kriterien).
+Vor(V)- und Nach(N)teile
+Einzelunternehmung Aktiengesellschaft GmbHKapitalbedarf bei Gründungkeine Mindestvorschriften: Vmind. 10 000 Franken, wovon mind. 20 % einbezahlt: N
+Minimum.  
+5 000 Frankenrelativ gering: mind. 20 000 Franken wovon 50 % einbezahlt: VKapitalbeschaffungu. U.  
+schwierig: Ni. d. R.  
+relativ einfach: Vi. d. R.  
+relativ schwierig: NFührungeinfach: Vkomplizierter: Nmittel: V/NMindestanzahl 
+Personen für 
+ Gründung1: V1: V/N
+(seit 1. 1. 2008)1: V/N
+(seit 1. 1. 2008)Steuernnur als Privatperson: 
+VDoppelbesteuerung: 
+NDoppelbesteuerung: 
+NHaftungauch persönliche Haftung: Nnur Geschäftsvermögen: V 
+(falls vollständig einbezahlt)nur mit  
+Stammkapital: V
+(falls vollständig einbezahlt)Aufteilung Geschäft bei Tod/Nachfolgeregelungschwierig: Ngut möglich: V (Verkauf Aktien)i. d. R. einfach: V 
+Erwerb des Gesellschaftsanteils durch den ErbenFirmaName des 
+ Unter nehmers obligatorisch: V/Nauch Phantasienamen ohne Zusatz AG möglich: VZusatz GmbH  nötig: NVerständnisfragen und Lösungen zu II Unternehmensführung? S. 381. Beschreiben Sie, wie sich die Zielvorstellungen eines Unternehmens im Laufe der Zeit verändert haben.
+ 	Früher: Primär Gewinnmaximierung und dauernde Erhaltung des Unternehmens.  Heute: Erreichen eines angemessenen Gewinns und Sicherung eines andauernden Fortbestands unter Berücksichtigung der Gegebenheiten und Entwicklungen der Umweltsphären (s. Abb. 12 im Lehrbuch S. 31) und der verschiedenen Ziele der Anspruchsgruppen (s. Abb. 11 im Lehrbuch S. 30).
+2. a 	 Formulieren Sie mögliche Zielkonflikte zwischen den Ansprüchen der verschiedenen Anspruchsgruppen eines Unternehmens.
+ 	Beispiele: Mitarbeiterinnen und Mitarbeiter möchten möglichst hohe Löhne, die den Gewinn drücken. Aktionäre möchten einen möglichst hohen Gewinn bzw. eine möglichst hohe Dividende. Diese sind höher, wenn die Löhne tiefer sind.
+ 	Die Lieferanten möchten für ihre Produkte möglichst hohe Verkaufserlöse erzielen; die  Kundinnen und Kunden des Unternehmens möchten am Schluss zu tiefen Preisen kaufen können.
+ 	b 	 Formulieren Sie mögliche Zielkonflikte zwischen den Ansprüchen der verschiedenen Anspruchsgruppen und den Interessen des Unternehmens.
+ 	Kunden und Kundinnen möchten Güter möglichst günstig angeboten erhalten, das Unternehmen hat ein Interesse an der Erzielung eines möglichst hohen Verkaufserlöses. 
+Der Staat möchte vom Unternehmen möglichst hohe Steuereinnahmen erhalten. Das Unternehmen ist eher daran interessiert, wenig Steuern zahlen zu müssen. Das Unternehmen möchte aus Kostengründen lieber nicht zu viele und zu verschiedene Waren am Lager haben müssen; die Kundinnen und Kunden möchten ein möglichst breites Warenangebot haben und jederzeit sämtliche Waren sofort kaufen können.
+3. Beschreiben Sie anhand eines von Ihnen gewählten Unternehmens mögliche  Auswirkungen der Umweltsphären auf das Unternehmen.
+ 	Individuelle Antworten; So haben z. B. Gegebenheiten der ökonomischen Umweltsphäre 
+(Globalisierung, zu hohe Bankendichte, Rezession) sowie zum Teil Probleme innerhalb der Banken selbst die Fusion zwischen der ehemaligen Schweizerischen Bankgesellschaft und dem ehemaligen Schweizischen Bankverein zur UBS (United Bank of Switzerland) gefördert.
+4. Grenzen Sie Grundstrategie und Leitbild voneinander ab.
+ 	Die Grundstrategie ist nur für das Management eines Unternehmens bestimmt; das Leitbild auch für die anderen Mitarbeiterinnen und Mitarbeiter und die Öffentlichkeit.  In der geheimen Grundstrategie finden sich exakte Zahlen und Vorgaben; das Leitbild ist allgemein gehalten und ist Teil der Öffentlichkeitsarbeit.
+5. Erklären Sie, was mit einem Unternehmenskonzept erreicht werden soll.
+ 	Das Unternehmenskonzept konkretisiert die Grundstrategie. Ziele, Mittel und Verfahren werden unterschieden und für das leistungs-, finanzwirtschaftliche und soziale Konzept exakt formuliert.
+6. a 	Entwerfen oder überprüfen Sie das Leitbild ihrer Schule.
+ 	Individuelle Antworten. Mögliche Aspekte: Werte und Ziele der Schule, Erwartungen an Schülerinnen und Schüler, Leistungen der Schule (Lernen von selbstständigem, kritischem, rücksichtsvollem Denken, Eigenverantwortlichkeit). Lehr- und Lerngrundsätze, Umgang miteinander in der Schulgemeinschaft, Unterrichtsformen, Zusammenarbeit zwischen den Fächern. Mitsprache und Mitbestimmung. Beziehungen zur näheren und weiteren Um gebung (Partnerschulen im Ausland) usw.
+  	b 	Vergleichen Sie das Leitbild Ihrer Schule mit dem eines Unternehmens.  	Individuelle Antworten
+? S. 52	Verständnisfragen und Lösungen zu
+III Produkt- und Marktziele
+1. Woran erkennen Sie, dass bei einem bestimmten Produkt ein Käufermarkt besteht?
+	 	Es besteht ein Überangebot an Waren (z. B. der Automarkt in Europa).
+2. a 	 Worin unterscheidet sich die Skimming- von der Penetrationsstrategie?
+	 	 	 Skimmingstrategie: Hohe Preise bei der Einführung, dann allmähliche Senkung. 
+Penetrationsstrategie: Niedrige Preise bei der Einführung, die allmählich erhöht werden. 
+	 	b 	Suchen Sie Beispiele für beide Strategien.
+ 	Skimmingstrategie bei Unterhaltungselektronik: Einführung erster Kassetten-, Video-, CD-Geräte usw. Computer: dito.
+ 	Penetrationsstrategie bei Automobilindustrie: Ford Modell T (Lizzy),  japanische Autoindustrie in den 1960er-Jahren.
+3. Weltbekannte Markenprodukte wie z. B. die Toblerone befinden sich seit Jahren in der gleichen Lebenszyklus-Phase. 
+a In welcher Phase? 
+	 	Sättigungsphase.
+b Begründen Sie, warum sich gewisse Produkte so lange halten können?
+ 	Qualitativ gutes Produkt, kein technisches Produkt (altert nicht), seit Jahren weltbekannt und vielerorts käuflich, sofort erkennbar und durch Form und Farbe unverwechselbar.
+c Mit welchen Massnahmen/Instrumenten wird der Lebenszyklus der Toblerone ständig verlängert? 
+ 	Intensive Werbung, Erschliessung neuer Märkte, Variationen in geschmacklicher Richtung (schwarze, weisse Toblerone oder Mischformen; Toblerone ist auch in Pralinenform erhältlich), unterschiedliche Grössen, Multipacks, Aktionen.
+4. Eine Interviewerin I. befragt auf der Strasse Frau F. zu einzelnen Süsswaren. Bei einer Frage muss Frau F. beantworten, ob Smarties für Kinder, Jugendliche, Erwachsene oder für alle gleichermassen geeignet sind.  	a 	Um welche Art von Marktuntersuchung handelt es sich?  	Primärmarktforschung, Befragung  	b 	Welche Frageart wird angewendet?
+	 	Selektivfrage, geschlossen.
+5. Erstellen Sie Produkt- und Marktziele für die Mensa bzw. den Kiosk Ihrer Schule.
+ 	Produktziele: Individuelle Antworten. Marktziele: Beim Marktsegment: Jugendliche, tiefes Einkommen, Fast-Food-Interessierte. Bedürfnis: sich schnell und günstig verpflegen.
+6. Erstellen Sie eine Marktanteils-Marktwachstums-Matrix für eine bestimmte Produktgruppe
+ 	(z. B. für Computer in privater Nutzung).
+ 	Question-Marks: Notebook mit Touchscreen
+ 	Stars-Produkte: 	Tablet Computer
+ 	Cash-Cows: 	Notebook
+ 	Poor-Dogs: 	Desktop-Computer
+Verständnisfragen und Lösungen zu	? S. 58
+IV Leistungserstellung
+1. Welche Faktoren müssen bei der Entscheidung über die Beschaffung von Werkstoffen berücksichtigt werden?
+– Wie gross ist überhaupt der Bedarf? Wie wird der Bedarf ermittelt?
+– Beschaffung: Häufig kleine Mengen beschaffen oder seltener grosse Mengen? Zu berück- sichtigen sind der relative Mehraufwand bei kleineren Bestellungen. Der Kapitalbedarf und die Kapitalbindung ist für grössere Mengen höher, dafür ist der Preis beim Einkauf bei grösseren Mengen tiefer. 
+Welches ist die optimale Bestellmenge?
+– Wie gross soll/muss unser Sicherheitsbestand sein, damit die Leistungsbereitschaft der  Unternehmung sichergestellt ist?
+2. Nennen Sie die Voraussetzungen für das Funktionieren einer JIT-Belieferung.
+ 	Verlässliche Zulieferer bezüglich Mengen, Qualität und Termine (langfristige Verträge, hohe Konventionalstrafen, strenge Qualitätsstandards). Modernes eigenes Informationssystem 
+3. Stellen Sie Vor- und Nachteile der Fliessfertigung und der Werkstattfertigung einander gegenüber.
+FliessfertigungWerkstattfertigungVorteile• Immer gleicher Prozess: hohe Produktivität
+• Kosten können relativ tief gehalten werden.
+• Konkurrenzfähigkeit• Individuelle Bedürfnisse können befriedigt werden.
+• Hohe Flexibilität 
+• Interessante Arbeit für AngestellteNachteile• Monotone Arbeit für die  Angestellten
+• Hohe Investitionskosten für Maschinen
+• Auf Bedürfnisände rungen kann nicht sofort reagiert werden.• Teure Produktion, teures Produkt4. Was ist allen neueren Tendenzen in Produktion und Beschaffung gemeinsam?
+ 	Produktion und Beschaffung sollen für das Unternehmen einfach zu steuern, kostengünstig (bzgl. Ressourcen, Transport, Lager, Personal, Maschinen) und schnell sein.
+? S. 70 Verständnisfragen und Lösungen zu 
+V Absatzverfahren
+1. Listen Sie Vor- und Nachteile von Markenartikeln, Eigenmarken und No-Name-Produkten in einer Tabelle auf.
+	 	Aus Sicht des Unternehmens:
+Markenartikel EigenmarkenNo­NamesVorteile• guter Schutz vor Kopien von Wettbewerbern
+• verleihen 
+ Individualität
+• bewirken Kunden-loyalität
+• ermöglichen klare Positionierung im 
+Markt• ähneln bekannten Markenartikeln
+• Preisvorteil kann u. U. ausgespielt werden
+• bewirken Kunden-bindung an Grossverteiler• geringe Kosten für 
+Werbung, Verpackung
+• Preisvorteil kann ausgespielt werdenNachteile•  hohe Kosten für Werbung, Verpackung•  relativ hoher 
+ Aufwand, um legale, den Markenartikeln ähnliche Produkte herzustellen• geringer Bekanntheitsgrad
+• häufig anfällig für 
+Schäden
+• geringe Kunden-bindung, Loyalität2. Geben Sie je ein weiteres Beispiel, bei dem jeweils eine kostenorientierte, nachfrageorientierte oder wettbewerbsorientierte Preisfestsetzung angebracht erscheint.
+ 	Kostenorientierte Preisfestsetzung: Ausstellung eines neuen Passes; Eintritte in gut geführte öffentliche Freizeitanlagen
+ 	Nachfrageorientierte Preisfestsetzung: Hotelpreise; z. T. Bahnpreise in der Schweiz und in Deutschland
+ 	Wettbewerbsorientierte Preisfestsetzung: Preise von Hardwareanbietern der Computerbranche, Konsumgüter
+3. Eine marketingverantwortliche Person möchte ein Produkt zu höchstens CHF 99.– anbieten. Beim Durchblättern von Lieferantenkatalogen stellt sie sich die Frage, wie hoch der Katalogpreis eines Lieferanten maximal sein darf, wenn sie ihren Kunden einen Rabatt von fünf Prozent und Skonto von einem Prozent gewährt. Sie will einen Reingewinn von 20 Prozent der Selbstkosten erzielen. Die Gemeinkosten betragen anteilsmäs sig 50 Prozent des Einstandspreises. Die Bezugskosten belaufen sich auf CHF 6.75 pro Stück. Die Lieferanten gewähren ihr 20 Prozent auf den Katalogpreisen. 
+Hinweis: Runden Sie die Zwischenergebnisse auf 5 Rappen. 
+ 	a 	Höchstpreis im Lieferantenkatalog? CHF 56.25  	b 	 Welche Überlegungen machte sich wohl die marketingverantwortliche Person bezüglich Preisfestsetzung?
+Katalogpreis des Lieferanten100 %CHF56.25–Rabatt20 %CHF11.25=Rechnungsbetrag des Lieferanten80 %CHF45.00–SkontoCHF0.00=Zahlung des Unternehmens an LieferantenCHF45.00+BezugskostenCHF6.75=Einstandspreis der Ware100 %CHF51.75+Gemeinkosten50 %CHF25.85=Selbstkosten150 %100 %CHF77.60+Reingewinn20 %CHF15.50=Zahlung der Kunden, Nettoerlös99 %120 %CHF93.10+Skonto1 %CHF0.95=Rechnung an Kunden100 %95 %CHF94.05+Rabatte an Kunden5 %CHF4.95=Katalogpreis des Unternehmens100 %CHF99.004. Eine Jungunternehmerin erhält ein Angebot, ein Unternehmen im Franchising-System zu übernehmen. Welche Vorteile hätte die Jungunternehmerin durch dieses System?
+ 	Vorteile der Jungunternehmerin durch Franchisesystem: Sie bleibt relativ unabhängig.
+ 	Sie wird geschult bzw. erhält erforderliches Know-how. Kein Aufbaurisiko.
+ 	Marke ist in der Regel schon erfolgreich getestet und hat bestimmten Bekanntheitsgrad. Verschiedene Leistungen wie Entwicklung neuer Produkte, Werbung, Marktauftritt werden vom Franchisegeber übernommen.
+ 	Finanzielle Belastung ist über mehrere Perioden verteilt.
+5 	a 	 Suchen Sie in einer Zeitschrift nach einem Inserat, das Sie besonders anspricht und eines, das Sie überhaupt nicht anspricht. Welches sind Ihre Gründe dafür?  	Individuelle Antworten  	b 	Suchen Sie in einer Zeitschrift Werbung, die nach dem AIDA-Prinzip aufgebaut ist.  	Individuelle Antworten
+6.  Suchen Sie Werbebeispiele mit praktisch nur informativen Elementen. Diskutieren Sie die Beispiele in der Klasse.  	Individuelle Antworten
+? S. 84 Verständnisfragen und Lösungen zu
+VI Finanzwesen
+1. Unterscheiden Sie Bilanz und Erfolgsrechnung bezüglich a zeitlichem Aspekt b Gegenüberstellungen c Unterteilungen
+BilanzErfolgsrechnungzu einem bestimmten Zeitpunkt 
+(z. B. 31.12.)innerhalb einer Periode entstanden (in der Regel während eines Jahres)Gegenüberstellung von Aktiven 
+ (Vermögen) und Passiven SchuldenGegenüberstellung von Aufwand  (Verbrauch) und Ertrag• Klasse 1:  Aktiven 
+(Umlaufvermögen,  Anlagevermögen)
+• Klasse 2:  Passiven  
+(kurzfristiges Fremd kapital,  langfristiges Fremdkapital, 
+Eigenkapital)• Klasse 3:  Betriebsertrag aus Lieferungen und Leistungen
+• Klasse 4:  Aufwand für Material, Waren und Drittleistungen
+• Klasse 5: Personalaufwand
+• Klasse 6: Sonstiger Betriebsaufwand
+• Klasse 7: Betriebliche Nebenerfolge
+• Klasse 8:  Ausserordentlicher und  betriebsfremder Erfolg, Steuern2. Ein Unternehmen möchte eine grössere Investition tätigen. Unterbreiten Sie Vorschläge für die Finanzierung.
+ 	Falls die Investition langfristigen Charakter hat, muss die Finanzierungsart ebenfalls langfristig sein (Eigenkapital oder langfristiges Fremdkapital): Goldene Bilanzregel.
+– Selbstfinanzierung aus zurückbehaltenen Gewinnen (Reserven)
+– Finanzierung aus Abschreibungsgegenwerten
+– Beteiligungsfinanzierung (Erhöhung des Eigenkapitals; z. B. durch Ausgabe von Aktien)
+– Darlehen mit Sicherheiten (Bürgschaft, Hypothek)
+– Evtl. Obligationenanleihen (nur bei grösseren Unternehmungen möglich) 	–  Leasing (Investitionsgüterleasing)
+3. Welche Grundregeln sind bei der Verpfändung von Immobilien (Hypotheken) zu beachten?
+– Festhaltung in einem öffentlichen Register (Grundbuch) und in einem Dokument (Grundpfandtitel; Schuldbrief)
+– Eigenkapitalanteil in der Regel mindestens 20%
+– Nettoaufwendungen für die Immobilie nicht mehr als 1/3 des Bruttoeinkommens 	–  1. Hypothek bis zu 2/3 des Verkehrswertes
+4. Roberto Battaglia bestellt ein Mischpult für 15 000 Franken. Auf der Rechnung steht: Skonto 2 % innert 10 Tagen, netto zahlbar innert 30 Tagen. Er sagt zu einem Kollegen:  
+«Es ist natürlich besser, wenn ich das Geld für diese 30 Tage zu 3 % Jahreszins anlege und erst dann bezahle.» Beurteilen Sie seine Aussage durch eine Berechnung.
+ 	Der Jahreszins ergibt nach der Formel einen Betrag von 36 %; somit ist es in jedem Fall besser, die Rechnung am 10. Tag unter Skontoabzug zu bezahlen.
+	Skontosatz	2
+	Jahreszins =	 • 360	R	 • 360
+	Zahlungsziel in Tagen – Skontofrist in Tagen	30 – 10
+5. Unterscheiden Sie Eigenkapital und Fremdkapital voneinander.
+	 	Vgl. hierzu Abb. 43, S. 75 im Lehrbuch.
+
+6. Ein Unternehmen hat einen Liquiditätsgrad 3 von 85 %, eine Eigenkapitalrendite von 2,5 % und einen Eigenfinanzierungsgrad von 80 %. a 	Beurteilen Sie das Unternehmen aufgrund dieser Kennzahlen.
+ 	Liquiditätsgrad 3 zu tief; sollte zwischen 150 % bis 200 % sein.
+ 	EK-Rendite zu tief; sollte besser sein als eine alternative Anlage auf dem Kapitalmarkt. Eigenfinanzierungsgrad sehr hoch; spricht für hohe Sicherheit.  	b 	Welche Massnahmen zur Verbesserung schlagen Sie vor?
+ 	Kurzfristiges Fremdkapital umwandeln in langfristiges Fremdkapital, evtl. Eigenkapital vermindern und mehr mit langfristigem Fremdkapital finanzieren, Umlaufvermögen vergrössern (z. B. mehr flüssige Mittel, Wertschriften).
+ 	c 	Welche Informationen sollten Sie zusätzlich haben, um noch eine detailliertere Beurteilung machen zu können?
+ 	Welche Branche, wie risikoreich ist die Tätigkeit, wie sind die aktuellen alternativen Anlagemöglichkeiten, wie hoch ist jeweils die Selbstfinanzierung, wie hoch sind die einzelnen Posten (z. B. das Lager) usw.
+7. 	Die geänderte Aufgaben stellung lautet:  	 
+Recherchieren Sie mithilfe des Einkommensteuertarifs die direkte Bundessteuer für eine alleinstehende Person für ein steuerbares Einkommen von 10 000 bis 100 000 Franken und tragen Sie die Werte in ein Diagramm ein.
+ 	Die Tabelle für die Berechnung der direkten Bundessteuer der natürlichen Personen finden Sie bei der Eidgenössischen Steuerverwaltung ESTV unter: 
+ 	www.estv.admin.ch/bundessteuer/dokumentation/00242/00384/index  	Berechnung der direkten Bundessteuer für eine alleinstehende Person:
+Steuerbares EinkommenSteuer für 1 Jahr in CHF10 000–20 00042.3530 000111.65 + 7.7 = 119.3540 000205.5750 000444.9460 000724.7670 0001 021.7680 0001 554.0090 0001 554.00 + 660.00 = 2 214.00100 0002 554.00 + 330 = 2 874.00 	Die grafische Darstellung folgt auf der nächsten Seite.
+a Wie lässt sich der Verlauf der Steuerbelastung charakterisieren?
+ 	Steuerprogression: Die Zunahme des Anteils am erzielten Einkommen, den man für die Steuern ausgibt, wird Steuerprogression genannt.
+b Welche Argumente sprechen für bzw. gegen diesen Verlauf der Steuerbelastung?
+ 	Pro: Einkommensumverteilung, sozialer Ausgleich führt zu sozialem Frieden (keine zu grosse Diskrepanz in den Einkommen)
+ 	Contra: Widerspricht dem Prinzip der Leistungsgerechtigkeit und kann negative Anreize wie 
+Steuervermeidung (z. B. weniger Arbeiten), oder legale (z. B. Umzug in einen steuergünstiHinweis zum 1. Druck 2013:  Hier sollte die Bundessteuer am Beispiel einer alleinstehenden Person recherchiert werden. 
+
+
+Kopiervorlage
+
+geren Kanton oder in eine ausländische Steueroase) resp. illegale Steuerflucht (z. B. Steuerhinterziehung und Steuerbetrug), bewirken, was wiederum dem Staat wichtige Steuermittel zur Finanzierung seiner Aufgaben entzieht. Ruinöser Steuerwettbewerb zwischen den Kantonen kann in Gang kommen. 
+c Wie würde eine lineare Steuerbelastung verlaufen?
+ 	Proportionale Steuern, also ein konstanter Steuersatz in % des Einkommens, den man für Steuern abgibt, führen zu einer linearen Kurve im Diagramm. 
+d Welche Argumente sprechen für bzw. gegen einen linearen Verlauf der Steuerbelastung?
+ 	Einfaches, transparentes Steuersystem (sog. Flatrate Tax). Auch mit einer sogenannten Flatrate Tax steuern Reiche, absolut gesehen, überdurchschnittlich zum schweizerischen Steuerhausalt bei. Die unter b genannten Nachteile würden abgefedert.
+e Was spricht für oder gegen eine starke Belastung der hohen Einkommen (Reichtumssteuer z. B. ab 200 000 Franken)?
+ 	Eine Reichtumssteuer hätte dieselben negativen Folgen wie die unter b aufgeführten Nachteile. Zudem tragen Reiche über die Steuerprogression bei Bundes- und den meisten Kantonssteuern sowie die kantonalen meist proportional ausgestalteten Vermögenssteuern den grössten Teil der Steuereinnahmen von Bund-, Kantonen- und Gemeinden. 
+? S. 104	Verständnisfragen und Lösungen zu
+VII Personalwesen und Sozialversicherungen
+1. Verfassen Sie eine Stellenbeschreibung für eine Teilzeitmitarbeiterin in der Schulbibliothek/ Mediothek oder in der Mensa.
+	 	Bezeichnung der Stelle: Mitarbeiterin Mensa (Teilzeit)
+	 	Anforderungen an die Stelleninhaberin: Haushaltslehrjahr oder äquivalente Ausbildung (in 
+Ausnahmefällen auch Anlehre «on the job» möglich)
+	 	Organisatorische Einordnung:
+– Unterstellung: direkt der Mensapächterin unterstellt
+– Überstellung: keine
+– Stellvertretung: übernimmt nach 1 Jahr Tätigkeit Stellvertretung für Vollzeit-mitarbeiterinnen in der Mensa
+	 	Ziel der Stelle:
+ 	Die Mensa ist ein Dienstleistungsbetrieb. Die Mitarbeiterinnen sind mitverantwortlich für schnellen, hygienisch einwandfreien Service. Sie haben stets dafür zu sorgen, dass ein reibungsloser Ablauf gewährleistet ist.
+	 	Aufgaben der Stelle:
+– Kontrolle der Bestände, der Ein- und Ausgänge von Snacks
+– Bestellung der Snacks
+– Auffüllen der Automaten und Meldung, wenn Wartung notwendig
+– Auffüllen der Vitrinen
+– Vorbereiten der Nahrungsmittel für die Küche (waschen, rüsten, schneiden)
+– Ausschank und Essensausgabe
+– Kassiertätigkeiten
+– Verantwortung für die Geschirrrückgabe (Rollwagen)
+– Abwaschtätigkeiten
+– Reinigungsarbeiten im Saal und in der Küche
+– Abfallentsorgung
+	 	Kompetenzen:
+– Weisungsbefugnis gegenüber Schülerinnen und Schülern in Mensaangelegenheiten
+– Entscheidungs- und Kontrollrecht bezüglich Snacks
+– Unterschriftsberechtigung in Bezug auf Bestellung der Snacks 	–  Weisungsbefugnis bezüglich Aushilfskräften
+	 	Verantwortung:
+– gegenüber den oben erwähnten Aufgaben und der Wahrnehmung der Kompetenzen
+2. Mithilfe der folgenden Begriffe und eigenen Ergänzungen ist ein Organigramm nach Funktionen zu erstellen: 
+Verwaltungsrat, Informatik, Betriebsbuchhaltung, Forschung und Entwicklung, Werbung, Arbeitsvorbereitung, Einkauf, Produktion, Administration, Unternehmensleitung, Rechtsdienst, Fertigwarenlager.
+
+
+? S. 112	Verständnisfragen und Lösungen zu
+I  Fragestellungen und Methoden
+1. Suchen Sie einen aktuellen Zeitungsartikel zu einem volkswirtschaftlichen Thema und versuchen Sie, diesen den verschiedenen Teilgebieten der VWL (? Abb. 67) zuzuordnen. Mehrfacheinordnungen sind möglich. 
+ 	Individuelle Lösungen: Abhängig von den Zeitungsartikeln, die die Schülerinnen und Schüler in den Unterricht mitbringen. Wobei es oft nicht so einfach ist, ein aktuelles volkswirtschaftliches Problem den verschiedenen Teilgebieten der Volkswirtschaftslehre zuzuordnen. Häufig werden gleichzeitig verschiedene Bereiche angesprochen.
+2. a 	Machen Sie fünf positive Aussagen aus dem Gebiet der Volkswirtschaftslehre.  	b 	Leiten Sie aus diesen fünf positiven Aussagen normative Theorien ab.
+Hypothetische Beispiele für a und b
+Sachverhalt b  Mögliches Werturteil  (normative Aussage)a  Mögliche wissenschaftliche Aussage (positive Aussage)1.  Bauarbeiter essen neuer dings Kaviar zum Frühstück.Der Verzehr von Kaviar ist ein Luxus für Bauarbeiter.Die Kaviarnachfrage der 
+Bauarbeiter wird aus 
+Lohnerhöhungen bestritten.2.  Ein Unternehmer verdient im Durchschnitt zehnmal so viel wie ein Arbeiter.Die Einkommensverteilung ist ungerecht. Die Einkommensverteilung ist ungleichmässig.3.  Die schweizerische Landwirtschaft erhält jährlich ca. 2 Mrd. CHF Subventionen/Direktzahlungen.Die Subventionen/Direktzahlungen sind zu hoch (oder zu gering). 4.  Die Zahl der Unbeschäftigten, ausgedrückt in % der Arbeitswilligen (Arbeitslosenquote),Eine Arbeitslosenquote von 2,7 % ist unerwünscht.5.  Das gesamtwirtschaftliche Einkommen zu konstanten Preisen steigt um 2,5 % pro Jahr.Das Wachstum ist  angemessen.Das Wachstum reicht aus, die Pro­Kopf­Einkommen um X % und den Staatsanteil um Y % zu erhöhen.Quelle: In Anlehnung an Woll: Allgemeine Volkswirtschaftslehre. Verlag Vahlen, München, 1987.
+	 	c 	Warum ist es wichtig, zwischen positiven und normativen Aussagen zu unterscheiden?
+ 	Wer politische Diskussionen zu wirtschaftlichen Problemen verfolgt, ist häufig über deren Stammtischcharakter erstaunt. Nicht Sachkenntnis, sondern Vorurteile und Emotionen beherrschen oft solche Auseinandersetzungen. Ein erster Schritt zur Versachlichung von Diskussionen ist die Fähigkeit, positive und normative Aussagen unterscheiden zu können.
+3. Nennen Sie Beispiele für Scheinkorrelationen.
+ 	 Je mehr Feuerwehrmänner beim Löschen eines Brandes beteiligt sind, desto grösser die Feuersbrunst.
+ 	Die Anzahl Hochzeiten in der Schweiz pro Monat ist positiv abhängig von der Anzahl der Zugvögel, die aus dem Süden in die Schweiz kommen.
+4. Erstellen Sie ein Modell/eine Theorie, die Ihre Noten in einem bestimmten Fach erklären sollen. 
+Unterscheiden Sie dabei zwischen Daten, Hypothesen und vorläufiger Verifikation oder Falsifikation.
+Modellannahmen HypothesenMehr Zeit für Aufgaben? umso bessere Leistungen in der SchuleBesseres Lernumfeld (keine laute Musik zum Lernen; kein kleiner Bruder, der stört)? umso bessere Leistungen in der SchuleJe mehr ich die Lehrperson mag? umso bessere Leistungen in der SchuleJe mehr ich mich für das Fach interessiere? umso bessere Leistungen in der Schuleusw.	 	Verifikation/Falsifikation
+	 	Jede Schülerin und jeder Schüler kann jetzt überprüfen, ob die Modellannahmen stimmen:
+– Tagebuch führen über den zeitlichen Aufwand je Probe; (unterschiedliche Fächer) mit dem Erfolg vergleichen (Daten).
+– Das Lernumfeld verbessern und kontrollieren, ob sich die Leistungen verbessern (Daten).
+– Subjektive Liste der Beliebtheit der Lehrperson aufstellen und mit den Leistungen in den unterschiedlichen Fächern vergleichen (Daten).
+– Subjektive Liste des Interesses für die verschiedenen Fächer aufstellen und mit den Leistungen vergleichen (Daten).
+ 	Stimmen die unterstellten Zusammenhänge (Hypothesen), so sind sie vorläufig verifiziert. Stimmen die unterstellten Zusammenhänge nicht mit den Beobachtungen (Daten) überein, muss nach neuen Erklärungen gesucht werden und das «Modell» ist zumindest teilweise falsifiziert (die nicht verifizierten Aussagen müssen im Modell ersetzt werden).
+5. a 	Erklären Sie, warum die Volkswirtschaftslehre keine exakte Wissenschaft ist.
+ 	Im Gegensatz zu den exakten Wissenschaften können in der Volkswirtschaft keine wiederholbaren Experimente unter kontrollierbaren Bedingungen gemacht werden. Es existieren in der gesellschaftlichen Realität zu viele Störgrössen, als dass Prognosen mit grosser Wahrscheinlichkeit exakt die Zukunft voraussagen können. Volkswirtschaft kann in der Regel nicht unter «Laborbedingungen» simuliert werden.
+	  	b 	Warum haben manche ökonomische Theorien eine kurze Lebensdauer?
+– Die vorläufige Bestätigung einer Theorie kann sich bei einer nochmaligen Prüfung als Zufall herausstellen.
+– Wertvorstellungen, Verhaltensweisen und Technologien verändern sich und können bewirken, dass sich die Gesellschaft und die Wirtschaft verändern. Die Zusammenhänge und Mechanismen können aufgrund gesellschaftlicher Veränderungen auch ändern, was neue Theorien zur Erklärung der veränderten Wirklichkeit notwendig macht.
+6. Welche Rolle spielen wirtschaftliche Prognosen im wirtschaftlichen Geschehen?
+ 	Prognosen sind die Basis für die Planung wirtschaftlichen Handelns. So wird ein Unternehmen die Höhe von Investitionen von der Prognose der zukünftigen Wirtschaftsentwicklung und den Bestellungseingängen abhängig machen. Für Regierungen sind Prognosen wichtig, weil viele Einnahmequellen und Ausgabenbereiche der öffentlichen Haushalte stark von der Wirtschaftsentwicklung abhängen. Schliesslich wird auch beim Kauf von langfristigen Konsumgütern auf Prognosen geachtet.
+7. Warum ist die Politikberatung umstritten?
+ 	In einer Demokratie werden normative Aussagen durch Abstimmungen und Wahlen entschieden, d. h. diejenige Gruppe, die für ihre Aussagen eine Mehrheit gefunden hat, setzt sich durch. Viele Bereiche der Wirtschaft werden durch solche Entscheidungen bewusst gestaltet. Diese Entscheidungen basieren aber nicht nur auf positiven Aussagen, sondern eben stark auch auf normativen Aussagen, die wiederum auf Werturteilen basieren. Daher ist die Politikberatung auch umstritten: Nicht alle haben dieselben Vorstellungen darüber, wie etwas sein soll.
+? S. 126	Verständnisfragen und Lösungen zu
+II Produktion, Wachstum und Umwelt
+1. Warum wird die Hausarbeit im BIP nicht erfasst?
+– Es existiert kein Marktpreis.
+– Messbarkeitsprobleme für die Erfassung.
+– Welcher Referenzlohn für Hausangestellte müsste genommen werden?
+2. Welche Funktionen erfüllt Geld auch noch (ausser den im Text erwähnten)?
+	  	Objektive Funktionen:
+– Tauschmittelfunktion: Transaktionskosten werden gesenkt (Zahlungsmittel).
+– Recheneinheit (Vergleichsmassstab in Franken)
+– Wertaufbewahrungsmittel (sparen)
+– Kredite: Geld ermöglicht das Gewähren und Aufnehmen von Krediten.
+	 	Subjektive Funktionen:
+– Image, Macht, Prestige
+– Sicherheit
+3. Veranschaulichen Sie die Effekte von technischem Fortschritt mithilfe der Produktionsfunktion.
+ 	Technischer Fortschritt erhöht die Ressourcenproduktivität, d. h. mit dem Einsatz  derselben Menge an Inputs, hier Arbeit, kann eine höhere Produktionsmenge Q erzeugt werden.
+
+4. Welche Probleme sind mit der Kapitalintensivierung der Produktion verbunden?
+– Minimale Betriebsgrösse nimmt zu; die Neugründung eines Unternehmens wird schwieriger.
+– Höhere Ansprüche an die Fähigkeiten der Angestellten
+5. a 	Warum kann mit prozentual gleich hohen Nettoinvestitionsquoten nicht in allen Ländern gleiches Wachstum erzeugt werden?
+ 	Ein Anfänger in der Leichtathletik oder in einer anderen Sportart wird eine grosse Leistungssteigerung erreichen bei einer Trainingseinheit mehr pro Woche. Jedoch kann ein Spitzensportler mit derselben zusätzlichen Trainingseinheit seine Leistung nur noch geringfügig verbessern, da er sich bereits auf einem hohen Level befindet.
+ 	Dies bedeutet aber auch, dass sich das Wachstum in entwickelten Nationen verlangsamt, obwohl die Investitionsquoten (Investitionen/BIP) nach wie vor hoch sind. Bei zunehmendem Entwicklungsstand sind immer mehr Investitionen notwendig, um konstante Zuwachsraten des BIPs zu erzeugen.
+	 	b 	Was schliessen Sie daraus für die Zukunft der Weltwirtschaft?
+ 	Verlangsamung des Wachstums hoch industrialisierter Länder (Generationenmodell wirtschaftlicher Entwicklung von Ländergruppen). Aufholmöglichkeiten für Entwicklungsländer (catch­up Effekt).
+6. Warum sind Ländervergleiche besonders zwischen Industrieländern und wenig industrialisierten Ländern problematisch?
+– Anteil Subsistenzwirtschaft/Schattenwirtschaft ist in Entwicklungsländern eher höher, was dazu führt, dass das BIP eher unterschätzt wird.
+– Erfassungsunsicherheit: Gerade in weniger entwickelten Ländern werden solche Daten oft geschätzt, was zu grossen Unsicherheiten führen kann.
+– Wechselkursproblematik/Kaufkraftparität: Dasselbe Einkommen/BIP pro Kopf bedeutet nicht, dass man damit in den unterschiedlichen Ländern dieselben Güter kaufen kann.
+7. Warum misst das BIP nur bedingt den Wohlstand eines Landes?
+ 	Insbesondere misst das BIP nicht die Wohlfahrt eines Landes, sondern nur den Wohlstand (materielle Grösse) und auch diesen nur ungenau. Dimensionen der Lebensqualität werden in diesem Konzept vernachlässigt. Ausserdem beinhaltet das BIP/BSP auch Grössen, die eigentlich vom BIP abgezogen werden müssten (z. B. Umweltbelastungs kosten, Ausgaben für staatliche Verschuldung usw.).
+8. Was versteht man unter nachhaltiger Entwicklung?
+ 	Nachhaltige Entwicklung berücksichtigt, dass die Bedürfnisbefriedigung der Gegenwart die Lebensbedingungen kommender Generationen nicht verschlechtert. Sie strebt insbesondere ein ausgewogenes Verhältnis zwischen der Natur und ihrer Erneuerungsf ähigkeit einerseits und ihrer Beanspruchung durch den Menschen andererseits an.
+? S. 136	Verständnisfragen und Lösungen zu
+III Angebot und Nachfrage
+1. Stellen Sie das erste und zweite Gossen’sche Gesetz grafisch dar.
+– Annahmen: Sättigung bei Brötchen eher erreicht als bei Getränken.
+– Fazit: So lange der Grenznutzen des Brötchens höher ist als jener der Getränke, werde ich mit meinem Geld ein zusätzliches Brötchen kaufen (links von Punkt A). Erst wenn der Grenznutzen so stark gesunken ist, dass der Grenznutzen der Getränke höher ist (rechts von Punkt A), werde ich mein Einkommen für Getränke verwenden. 
+
+2. Warum kosten Perlen mehr als Regenwürmer?
+ 	Zwar hat der Regenwurm volkswirtschaftlich gesehen eine grössere Bedeutung als Perlen (er gräbt den Boden um, lockert ihn), was die Qualität des Bodens als Anbaufläche in der Landwirtschaft erhöht und somit – zumindest theoretisch gesehen – grössere Ernten ermöglicht. Doch sind die Kosten zur Gewinnung z. B. einer Zuchtperle wesentlich höher als jene einer Regenwurm­Zucht (diese vermehren sich im Boden von selber, dagegen benötigt die Perlenzucht viel Arbeit und Kapital). Zudem widerspiegelt der Preis die Knappheit und nicht die Bedeutung eines Gutes für den Menschen. Regenwürmer kommen in der Natur im Vergleich zu Perlen in fast unbeschränkter Menge vor. Perlen sind also knapper. Zudem ist die Zahlungsbereitschaft von Konsumentinnen und Konsumenten für Perlen höher als für Regenwürmer (höhere Nutzeneinschätzung).
+3. Bei welchen Gütern ist die Nachfrage stark vom Einkommen oder Vermögen abhängig?
+ 	Bei so genannt einkommenselastischen Gütern (d. h. die in % ausgedrückte Nachfrageänderung ist höher als die in % ausgedrückte Einkommensänderung). Man kann sich darunter vor allem Luxusgüter vorstellen: Zweitautos, Ferienwohnungen usw. Wenn man das Ganze historisch betrachtet, so ist die Nachfrage z. B. nach hochwertigerem Fleisch in den Nachkriegsjahren bestimmt überproportional zum Einkommen gestiegen (dafür werden weniger andere Nahrungsmittel nachgefragt).
+4. Welche Güter haben keinen Preis?
+ 	So genannte freie Güter, die in der Natur in genügender Menge vorhanden sind, um alle Bedürfnisse zu befriedigen, also nicht knapp sind (wie z. B. im Herbst heruntergefallene Blätter). Heute gibt es immer weniger echte freie Güter, d. h. Güter ohne Preis.
+5. Ist Ihre persönliche Nachfrage nach Lehrbüchern elastisch oder unelastisch? Begründen Sie Ihre Antwort.
+ 	Eher unelastisch, da es nicht vom Preis abhängt, ob eine Schülerin oder ein Schüler ein Buch kauft, sondern ob es von der Lehrperson empfohlen wird oder als Pflicht angeschafft werden muss. Ist der Preis aber sehr hoch, kann eine erneute Preiserhöhung dazu führen, dass Schülerinnen und Schüler das Buch kopieren oder sich alte Versionen von Kolleginnen und Kollegen beschaffen (v.a. wenn der Preis über eine kritische, «psychol ogische» Grenze hinaus steigt). Ausserdem kommt es darauf an, ob die Eltern die Bücher bezahlen oder nicht und was für ein Budget und was für eine schulische Motivation (Nutzeneinschätzung eines Schulbuches eventuell höher) man besitzt.
+6. Wie verändert sich der Umsatz einer Unternehmung, wenn der Preis variiert wird? Stellen Sie Ihre Resultate grafisch dar.
+ 	Die Antwort ist abhängig von der Preiselastizität der Nachfrage: Eine Preissenkung lohnt sich nur bei einer elastischen Nachfrage.
+
+ABCD = alter Umsatz
+AEFG = neuer Umsatz
+GHCD > BEFH = Umsatzeinbusse  grösser als UmsatzgewinnABCD = alter Umsatz
+AEFG = neuer Umsatz
+GHCD < BEFH = Umsatzeinbusse  kleiner als UmsatzgewinnPreiselastizität der Nachfrage = 25 %/– 50 % = – 0.5Preiselastizität der Nachfrage =  50 %/– 25 % = – 27. Erklären Sie anhand eines konkreten Beispiels, warum der Grenzertrag nach einer  bestimmten Zeit abnimmt.
+	 	Man stelle sich vor, ein Bauer besitze ein begrenztes Stück Land, nur er arbeitet auf dem 
+Feld und er hat auch nur einen Traktor. Nun setzt er zum ersten Mal Dünger ein auf seinem 
+Feld, sagen wir einen Sack. Die Ernte wird steigen. Im nächsten Jahr setzt er zwei Säcke Dünger ein. Die Ernte steigt nochmals im Vergleich zum Vorjahr, aber weniger stark. Im dritten Jahr setzt er drei Säcke Dünger ein, die Ernte nimmt aber nicht mehr zu. Im vierten Jahr versucht er es mit vier Säcken und die Ernte beginnt sogar zu sinken. D. h., wenn alle 
+Produktionsfaktoren bis auf einen konstant gehalten werden, erzeugt dies abnehmende Grenzerträge oder sogar negative (der Boden war im vierten Jahr einfach überdüngt). Das ist das so genannte Gesetz der abnehmenden Grenzerträge, was allgemein ausgedrückt besagt: Es gibt irgendwo ein optimales Faktoreinsatzverhältnis.
+8. Erklären Sie, warum die Nachfrage nach einem Gut bei steigendem Einkommen auch zurückgehen kann (relativ, aber auch absolut).
+ 	Niederwertige Güter werden mit steigendem Einkommen weniger konsumiert (Substitutionseffekte/Substitutionsgüter). Zum einen, weil andere Güter diese verdrängen, zum anderen, weil diese Güter bei einem gewissen Lebensstandard nicht mehr zu den typischen Konsumgütern zählen.
+9. Stellen Sie in der Grafik «Erlöse und Kosten» eine Veränderung des Preises dar.  Was geschieht mit der Gewinnzone?
+ 	Der Preis entspricht in dieser Grafik der Steigung der Erlöskurve. Hat sich z. B. die Nutzeneinschätzung der Konsumentinnen und Konsumenten für ein Produkt verändert, ändert sich der Preis und die Gewinnzone wird grösser oder kleiner. 
+ 	(Höhere Nutzeneinschätzung führt zu einem höheren Preis, womit sich die Gewinnzone von 0 auf 1 ausdehnt. Dagegen führt eine tiefere Einschätzung zu einem tieferen Preis und somit zu einer Schrumpfung der Gewinnzone von 0 auf 2.)
+0
+2
+10. Machen Sie zu jeder Bedingung der vollkommenen Konkurrenz ein konkretes Gegenb eispiel aus der Realität. 
+AnnahmeGegenbeispiel Vollständige  
+Markttransparenz Uns Menschen ist es gar nicht möglich, alle Preise und Qualitäten eines Produktes z. B. in der ganzen Schweiz zu kennen. Dazu müsste ich alle Orte kennen, an denen z. B. ein Päckchen Kaugummi verkauft wird und wissen, zu welchem Preis. Dies würde schlicht und einfach unsere Informationsverarbeitungskapazität überfordern.Grosse Zahl von MarktteilnehmernEs gibt Märkte, da gibt es nur einen oder wenige Anbieter, oder nur wenige oder gar nur einen Nachfrager. Z. B. wenige Anbieter in der Mobiltelefonie in der Schweiz oder oftmals der Staat als einziger Nachfrager, z. B. im Rüstungsbereich. Homogene GüterEin Paar Nike­Turnschuhe sind nicht dasselbe wie ein Paar MigrosTurnschuhe. Die Unternehmungen versuchen durch Differenzierung und Werbung ihre Produkte einzigartig zu machen. Freier MarktzutrittZ. B. wird der Fernsehmarkt in der Schweiz durch staatliche Konzessionen begrenzt. Zusätzliche private Fernsehsender kämpfen um diese Konzessionen (z. B. Tele 24 in Zürich).	Verständnisfragen und Lösungen zu	? S. 144
+IV Wirtschaftssystem und Wirtschaftsordnung
+MarktwirtschaftPlanwirtschaftVorteile  
+(z. T. theoretisch)•  Die Betonung der Leistungs gerechtigkeit führt über das Gewinnstreben zu einer immer besseren Güterversorgung und damit zu mehr Wohlstand.• Grössere Stabilität der Wirtschaft, weil die Auf­ und 
+Abwärtsbewegungen durch die Planung verhindert werden sollten (in der Wirklichkeit widerlegt).
+• Möglichkeiten zur schnellen Förderung einzelner Bereiche der Wirtschaft, denen besondere Bedeutung zukommt (z. B. 
+grosse Bildungsinvestitionen).
+• Fehlentwicklungen im Verhältnis von Sozialbedarf (öffentliche Investitionen) und Privatbedarf können ausgeschaltet werden.Nachteile• In der Marktwirtschaft gibt es Konjunkturschwankungen und Massenarbeitslosigkeit.
+• Es kann zur Bildung von 
+Oligopolen und Monopolen kommen. Dadurch wird der Preismechanismus zum Teil ausser Kraft gesetzt. Die Freiheit Einzelner führt zur Beschränkung der Freiheit vieler.
+• Fehlende Verankerung der Bedarfsgerechtigkeit: 
+ Vernachlässigung von Personen am Rande der (Wirtschafts­) Gesellschaft.
+• Es kommt zu Fehlentwick lungen und Übertreibungen  
+(vgl. dazu Finanzkrise, 
+ Managerlöhne)• Die Beseitigung des Privateigentums lähmt das Erwerbsstreben und die private Initiative und hat die Unwirtschaftlichkeit der Betriebe zur Folge.
+• Schwierigkeiten der Planung: In einer entwickelten Planwirtschaft ist es nicht mehr möglich, den Wirtschaftsablauf bis in alle Einzelheiten zu planen. Zudem verunmöglicht die zunehmende Konsumgüterproduktion eine umfassende Planung. Fehlplanungen sind die Folge.
+• In entwickelten Volkswirtschaften besteht zunehmend die Gefahr, dass am Bedarf vorbeiproduziert wird, weil die 
+Bedürfnisse nicht richtig erfasst werden.
+• Freiheitsrechte müssen beschränkt sein: Keine Handels­ und Gewerbefreiheit, keine freie Wahl von Beruf und Arbeitsplatz und keine Niederlassungsfreiheit.
+• Bürokratisierung des 
+Wirtschafts lebens (Planung und 
+Planungs kontrolle) führen zu 
+Machtkonzentrationen, Privilegien und  Korruption.1. Stellen Sie Vor­ und Nachteile der beiden unterschiedlichen Wirtschaftssysteme Planwirtschaft und Marktwirtschaft in der folgenden Matrix zusammen:
+(Quelle nach: Dubs, Volkswirtschaftslehre, 5. Auflage, Haupt Bern, 1983, mit vielen eigenen Ergänzungen)
+2. Stellen Sie auf einer Zeitachse die unterschiedlichen ordnungspolitischen Konzepte mit ihren historischen Hintergründen dar.
+ordnungspolitisches Konzept«laissez­faire­ 
+Marktwirtschaftneo­liberale  Wirtschaftsordnungsoziale 
+ MarktwirtschaftWohlfahrtsstaatZeitpunkt18. Jh.1. Hälfte 20. Jh. Mitte 20. Jh. 1945 – 80er­JahreHauptvertreter• Adam Smith 
+• David Ricardo 
+• John Stuart Mill• Röpke 
+• Eucken•  Alfred 
+ Müller­Armack• Schweden 
+• NeuseelandRolle des Staates•  Nachtwächter­Staat (Bereitstellung öffentlicher Güter)• Verhinderung von Monopolen
+• aktive 
+ Wettbewerbspolitik• Verteilungs­aufgaben
+• Absicherung gegen Folgen unverschuldeter Arbeitslosigkeit•  Staat finanziert 
+Grundbedürfnisse der Bürgerinnen und Bürger3. Geben Sie je zwei (zusätzliche) konkrete Beispiele für externe Nutzen und externe Kosten.
+Externer NutzenExterne KostenUnternehmungsbereich• Traditionelle und biologische Landwirtschaft pflegt die Landschaft.
+• Computerprogramme werden mit viel Aufwand entwickelt, Schwarzkopisten profitieren gratis davon.
+• Schöne Architektur verschönert die Stadt (für Staats­, Unternehmens­ und für Privatbauten geltend).
+• Bildet ein Unternehmen Fachkräfte aus, können andere Unternehmen davon profitieren (Stellenwechsel, Zusammenarbeit usw.).
+• Resultate der Grundlagenforschung und nicht patentierbare Erfindungen werden kostenlos verwendet.• Intensive Landwirtschaft überdüngt Seen und verschmutzt Trinkwasser.
+• Fabriken verschmutzen Luft und Wasser.
+• Abweisende Fassaden veröden die Stadt (für Staats­, Unternehmens­ und für Privatbauten geltend).Haushaltsbereich• Eine Magerwiese ist Lebensraum für Tiere und erfreut Passanten.
+• Gratis Downloads im Internet•  Eine Magerwiese versamt die Rasen und Gärten der Nachbarn. Tabelle übernommen aus Bernhard Beck (Wohlstand, Markt und Staat), Aarau: Verlag Sauerländer. S. 58
+4. a 	Geben Sie konkrete Beispiele für «free rider».  	Individuelle Antworten
+ 	b 	Überlegen Sie sich Situationen, in denen Sie sich auch schon als «free rider» betätigt haben.
+ 	Individuelle Antworten  	c 	Machen Sie weitere Beispiele für öffentliche Güter.
+	 	Es gibt kaum reine öffentliche Güter.
+ 	Güter mit bedeutenden externen Nutzen müssen von einer öffentlichen Organisation zur Verfügung gestellt werden: öffentliche Sicherheit, allen zugängliche Verkehrswege, Strassenbeleuchtung, öffentliche Parkanlagen oder Grundlagenforschung. Daher heissen diese auch öffentliche Güter.
+ 	Weitere Beispiele: Landesverteidigung, funktionierende Rechtsordnung, Marktordnung (Teilbereich der Rechtsordnung, der für die Ökonomie von besonderer Bedeutung ist, z. B. Garantie des Privateigentums)
+5. Stellen Sie das Wagner’sche Gesetz grafisch dar.
+ 	Die Staatsausgaben steigen bei fortschreitender wirtschaftlicher Entwicklung (repräsentiert durch den Anstieg des BIPs) überproportional an.
+
+6. Warum weisen Bürokratien eine Tendenz zur Eigendynamik auf? Vergleichen Sie das Verhalten einer Unternehmung nach Schumpeter und eines «typischen» modellhaften Bürokraten.
+Typischer Unternehmer nach Schumpeter («Entrepreneur»)Typischer modellhafter Bürokrat•  Gewinnmaximierung 
+(Antriebskraft des Wirtschaftens)•  Budgetmaximierung 
+(repräsentiert die Bedeutung einer 
+ Abteilung usw.)•  Risiko übernehmend/Innovator (Erfolgsaussicht)• risikoavers  
+(Negativsanktion bei Fehlern)? S. 154 Verständnisfragen und Lösungen zu
+V Wirtschaftspolitik
+1. Formulieren Sie Beispiele für Zielkonflikte innerhalb des «magischen» Sechsecks.
+ 	Individuelle Antworten. Wichtig ist, bei der Besprechung darauf einzugehen, was die Wahrnehmung einer Zielbeziehung beeinflusst.
+– Zeithorizont der Betrachtung –  Werthaltungen
+	 	Beispiele:
+– Kurzfristig gesehen gibt es unter Umständen einen Zielkonflikt zwischen Preisstabilität und Vollbeschäftigung. Die Nationalbank wurde in der Vergangenheit des öfteren als «Job­Killerin» bezeichnet, als sie an ihrer konsequenten Preisstabilitätspolitik festgehalten hat. Die Gegner dieser Politik führten ins Feld, dass der Franken damit zu stark würde gegenüber anderen Währungen und somit der Exportbereich leiden würde. Zudem würden bei einem ausgetrockneten Geldmarkt die Kreditkosten (Zinsen) steigen, was Investitionen und somit Arbeitsplätze verhindere oder zu deren Abbau führen würde.
+– Langfristig gesehen ist aber Preisstabilität eine der wichtigsten Voraussetzungen, um Wachstum zu erreichen und somit Arbeitsplätze zu sichern oder zu schaffen.
+	 	Ein weiterer Zielkonflikt: Umweltqualität und Wirtschaftswachstum
+2. a 	 Beschreiben Sie die Zielbeziehung zwischen sozialem Ausgleich und Wirtschaftswachstum.
+	 	Abhängig von der persönlichen Werthaltung:
+ 	Zielharmonie: Je höher das Wirtschaftswachstum ist, umso mehr Mittel stehen zur Verfügung für den sozialen Ausgleich. Sozialer Ausgleich bringt sozialen Frieden und ist damit eine notwendige Voraussetzung für Wirtschaftswachstum.
+ 	Zielkonflikt: Hohe Abgaben für den sozialen Ausgleich (Arbeitnehmer­ und Arbeitgeberbeiträge, Steuern usw.) erhöhen die Kosten der Produktion und senken die internationale Wettbewerbsfähigkeit der schweizerischen Unternehmen, da diese Kosten auf die Preise überwälzt werden, was das Wirtschaftswachstum beeinträchtigen kann (es fehlen z. B. Mittel für Investitionen usw.). Eine immer höhere Belastung der aktiven Bevölkerung über Steuern und Abgaben senkt die persönliche Arbeitsmotivation und das Wirtschaftsleben erlahmt.
+	 	b 	Wovon hängt die Zielbeziehung und deren Wahrnehmung ab?
+ 	Von den persönlichen Werthaltungen: Die Wahrnehmung der Zielbeziehung als Harmonie ist eher die Sicht eines Gewerkschafters, jene des Zielkonfliktes eher jene eines Arbeitgebervertreters.
+3. Wie beurteilen Sie die Deregulierung des Telefonmarkts (Zulassung neuer Anbieter von Telefondienstleistungen) in der Schweiz? Listen Sie alle Pro­ und Kontra­Argumente in einer Tabelle auf.
+Pro Kontra• Produkt­ und Dienstleistungs­innovationen
+• tiefere Preise
+• Markbedürfnisse werden stärker berücksichtigt.
+• grössere Angebotspalette• Anpassungskosten (z. B. Abbau von unproduktiven Arbeitsplätzen)
+• Ehemalige Überschüsse (Monopolrente) aus dem früher monopolisierten Kommunikationsbereich fallen weg. (Diese wurden früher grosszügig in anderen 
+Bereichen wieder ausgegeben.)4. a 	 Was geschieht mit Angebot und Nachfrage, wenn die Preise eines Guts durch staatliche Massnahmen über dem Marktpreis gehalten werden?
+ 	Das Angebot nimmt zu, die Nachfrage sinkt.
+– Nachfrage sinkt
+– Angebot steigt
+– Es gibt kein Gleichgewicht mehr zwischen Angebot und Nachfrage ? Überangebot/ Angebotsüberschuss
+b Zu welchem Zweck könnte der  
+Staat versucht sein, eine solche Regelung zu treffen? 
+	 	Zur Einkommenssicherung der 
+Anbieter (Strukturerhaltung), z. B. in der Landwirtschaft
+c Welche Möglichkeiten hat der Staat grundsätzlich, die Folgeprobleme einer solchen Massnahme zu bekämpfen?
+	 	–  Kontingentierung der Produktion:  
+z. B. wird jedem Bauern vorgeschrieben, wie viel er produzieren darf. Gedeckt wird nur die nachgefragte Menge zum neuen Preis. Produziert er mehr, wird er gebüsst.
+ 	Konsequenzen: Ineffizienzen der Planwirtschaft (vgl. Kapitel IV); das ursprüngliche Ziel der Einkommenssicherung wird u. U. verfehlt.
+– Staatliche Übernahme des Überangebots und Überschussverwertung: Der Staat tritt als zu­ sätz licher Nachfrager auf und kauft das überschüssige Angebot auf. Die Überschussverwertung ist für den Staat ein Defizitgeschäft. Das Einkommensziel wird zwar erreicht, allerdings mit hohen gesamtwirtschaftlichen Kosten.
+– Subventionierung, damit das Überschussangebot von den Haushalten absorbiert/nachgefragt wird. 
+Der Produzent erhält den Mindestpreis und damit wird das ursprüngliche Einkommensziel erreicht. Die graue Fläche entspricht dem 
+Subventionsbetrag, d. h. der Konsument zahlt viel weniger, als der Produzent erhält. 
+Die Differenz trägt der Staat.
+5. Wie wirkt sich a 	eine Subvention aus?
+ 	Annahme: Stück­Angebotssubvention: Rechtsverschiebung der Angebotskurve (die Produktion wird für den Anbieter P 1 günstiger, bzw. er erhält eine Stücksubvention, die er 
+von den Kosten
+ 	abziehen kann). Der Schnittpunktverschiebt sich somit nach rechts unten auf der alten Nachfragekurve, d. h. 
+der Preis sinkt und die Menge steigt.
+b eine Steuer im Preis­Mengen­Diagramm (VWL S. 127) aus?
+ 	Annahme: Stück­Angebotssteuer: Linksverschiebung der Angebotskurve (analog oben), der Preis steigt und die Menge sinkt.  
+Man könnte sich auch eine Einkommenssteuer vorstellen, was die Nach fragekurve nach links verschieben würde, weil das verfügbare Einkommen gesunken ist. Wirkung: Menge sinkt, Preis steigt.
+c Geben Sie Beispiele, bei denen aus wirtschaftspolitischen Gründen eine solche Steuer oder Subvention angebracht erscheint.
+	 	Individuelle Antworten, z. B.:
+– Subvention: Subventionierung von Grundnahrungsmitteln, z. B. in weniger entwickelten Ländern zur Sicherung der Grundversorgung der Bevölkerung (damit sich jedermann diese Lebensmittel leisten kann) oder Subventionierung des öffentlichen Verkehrs (damit dem Wohlfahrtsziel Umweltqualität Rechnung getragen wird) usw.
+– Steuer: Um den Konsum von Gütern zu dämpfen, von denen man annimmt, dass ein Konsum zu Marktpreisen volkswirtschaftlich schädlich ist oder aus anderen Gründen gesellschaftlich nicht erwünscht ist (z. B. Besteuerung des Tabakkonsums, um den Konsumenten vor sich selber zu schützen oder um die Kosten im Gesundheitswesen, die durch Raucher verursacht werden, zu reduzieren).
+ 	Wichtig bei der Diskussion ist, dass auch hier wieder gesellschaftliche Entscheidungen basierend auf Wertvorstellungen getroffen werden.
+6. Im «magischen» Sechseck sind unterschiedliche Ziele enthalten. Ordnen Sie jedem Ziel diejenigen wirtschaftlichen, politischen und gesellschaftlichen Interessengruppen und Institutionen zu, die sich vor allem für dieses Ziel einsetzen.
+	 	Individuelle Antworten, z. B.:
+– Preisstabilität:  	SNB , Gläubiger, Lohnempfänger, Rentner
+– Vollbeschäftigung:  	Gewerkschaften, SP
+– Umweltqualität: 	WWF, Greenpeace, die Grünen
+– Wachstum:  	Wirtschaftsverbände, Arbeitnehmerorganisationen usw.
+– Aussenwirtschaftliches  Gleichgewicht:
+– Sozialer Ausgleich: 	SP, Gewerkschaften, Graue Panther
+7. Wo liegen die Chancen und Gefahren des New Public Managements?
+	 	Individuelle Antworten, z. B.:
+Chancen Gefahren• Problembewusstsein in der Verwaltung fördern
+• Wieder verbessertes Image der Verwaltung in der Öffentlichkeit, Goodwill schaffen
+• Effizienterer Umgang mit Steuergeldern
+• Höhere Reaktionsgeschwindigkeit 
+(Anpassung an neue Problemstellungen)• Nicht alles ist messbar, soll messbar sein, und die Verwaltung soll nicht nur an ihrem Output gemessen werden
+• Fehlende neue Verwaltungskultur zur 
+Umsetzung der neuen Ansätze  
+(Scheitern am «Bürokraten»)8. Erklären Sie, warum strukturelle Defizite für die Wirtschaft gefährlicher sind als  konjunkturelle. 
+ 	Konjunkturelle Defizite entstehen kurzfristig bei Abschwungs­ und rezessiven Tendenzen und verschwinden bei einer Erholung der Wirtschaft wieder. Zum Teil sind diese konjunkturellen Defizite volkswirtschaftlich sogar erwünscht (vgl. konjunkturelle Stabilisatoren S. 176 Grundlagenbuch). Die strukturellen Defizite verschwinden jedoch nicht bei einem erneuten Wirtschaftsaufschwung. Es handelt sich um mittel­ bis langfristig unausgeglichen zusammengesetzte Einnahmen und Ausgaben (zu hohe Ausgabendynamik).
+9. Welche Faktoren beschränken den Spielraum der Wirtschaftspolitik längerfristig?
+ 	Je höher der Bestand der Schulden und des daraus erwachsenden Schuldendienstes, desto geringer ist der Handlungsspielraum für die Wirtschaftspolitik langfristig. Nimmt der Teil der Ausgaben für den Schuldendienst stetig zu, bleibt entsprechend weniger Geld für andere Ausgabenbereiche der Wirtschaftspolitik, die z. B. für das zukünftige Wachstum der Wirtschaft notwendig wären (Investitionen in Infrastruktur, Bildung usw.)
+10. Erklären Sie, warum die Offenlegung von Werturteilen in der Wirtschaftspolitik von zentraler Bedeutung ist.
+ 	Aufgrund der strukturellen Defizite und eines verlangsamten Wachstums wird die Beseitigung dieser strukturellen Defizite in der Zukunft Gegenstand politischer Auseinandersetzungen sein, die nicht gelöst werden können, indem alle ihren Besitzstand waren. Deshalb ist es notwendig, dass im Sinne einer volkswirtschaftlichen Gesamt lösung Einzelinteressen nicht überbewertet werden dürfen. Einige Gruppen verstehen es aber, ihre Einzelinteressen immer wieder auf Kosten der Allgemeinheit durchzubringen. Eine Versachlichung und Offen legung von Werturteilen und Einzelinteressen ist daher wichtig, um die Gesamtlösung nicht aus den Augen zu verlieren.
+? S. 166	Verständnisfragen und Lösungen zu
+VI Geld- und Finanzsystem
+1. Welche Faktoren beeinflussen die Geldnachfrage?
+ 	Wenn die Zinsen hoch sind, ist es attraktiver, das Geld zinsbringend anzulegen. Die Zinsen sind die Opportunitätskosten der Geldhaltung.
+ 	Wenn die Einkommen in einer Volkswirtschaft hoch sind, steigen auch die Umsätze. Für  	Umsätze von Waren und Dienstleistungen benötigt man Geld.
+ 	Je besser die wirtschaftliche Lage ist, umso höher sind die Umsätze und das BIP/BSP und somit die Nachfrage nach Geld.
+ 	Da das BIP/BSP eine Multiplikation von Mengen x Preisen ist, beeinflusst auch das  	Preisniveau die Nachfrage nach Geld.
+2. a 	 Welche Möglichkeiten hat die SNB, um die Geldmenge einzuschränken? (Nehmen Sie dazu die Bilanz der SNB (? S. 157) zu Hilfe.)
+– Wertpapiere verkaufen
+– Devisen verkaufen
+– Diskontsatz erhöhen
+– Mindestreserven für Geschäftsbanken einführen
+– Liquiditätsvorschriften für Geschäftsbanken verschärfen
+– Emissionskontrollen für Anleihen verschärfen
+– (Gold verkaufen)
+– (Negativzinsen für ausländische Anleger)
+– Primär beeinflusst die SNB die Geldmenge durch die Änderung des LIBOR­Bandes  (hier Band erhöhen) resp. durch die Höhe des Repo­Zinses (höherer Repo­Zins).
+	 	b 	Wann sollte die SNB dies tun?
+	 	Bei Geldüberhang, d. h. Anzeichen von inflationärer Entwicklung.
+3. Suchen Sie auf der Website des Bundesamts für Statistik (BFS) – www.bfs.admin.ch –  nach Informationen zum Landesindex der Konsumentenpreise (LIK). Beantworten Sie unter Verwendung der Abbildung auf S. 153 die folgende Frage der einzelnen Bedarfsgruppen: Welche Bedeutung kommt der Gewichtung der Bedarfsgruppen «Bekleidung und Schuhe» und «Wohnen und Energie» zu?
+– «Bekleidung und Schuhe»: Mit einem Anteil am Warenkorb in der Höhe von 3,8 % hat diese Bedarfsgruppe eine eher geringe Bedeutung.
+– «Wohnen und Energie»: Mit einem Anteil am Warenkorb in der Höhe von 25,4 % hat diese Bedarfsgruppe eine hohe Bedeutung.
+4. Wie wirkt sich in der Verkehrsgleichung (S. 154) eine Erhöhung der Umlaufgeschwindigkeit V auf das reale Volkseinkommen aus, bei sonst gleich bleibenden Faktoren?
+	 	Das Preisniveau steigt (Inflation).
+5. Wer sind
+– die Gewinnerinnen und Gewinner einer Inflation? – die Verliererinnen und Verlierer einer Inflation?
+	 	Die Gewinnerinnen und Gewinner einer Inflation: Schuldnerinnen und Schuldner
+	 	Die Verliererinnen und Verlierer einer Inflation: Gläubiger, Sparer, Rentner, Fixbesoldete
+6. Zeichnen Sie die Beziehungen/Abhängigkeiten zwischen Geldmenge, Zinsen, Güternachfrage, Löhnen, Preisen, Kreditnachfrage, Produktionskosten, Wirtschaftsaktivität in einem Netzwerk auf.
+
+ 
+? positive Rückkoppelung/Auswirkung  
+ negative Rückkoppelung/Auswirkung
+7. Welche negativen Auswirkungen können Börsenentwicklungen haben?
+– Loslösung von der realwirtschaftlichen Entwicklung. 1997 konnte in der Schweiz an der Börse mehr verdient werden als durch die Zurverfügungstellung der Arbeitskraft.  	–  Schere zwischen Arm und Reich kann sich vergrössern.
+– Börsencrash als Auslöser von Weltwirtschaftskrise (1929)
+– Platzen von Spekulationsblasen: Verluste der Anleger. In Extremfällen kann die Stabilität des Finanzsektors eines Landes gefährdet werden (Finanzkrise 2008)  	–  Kurzfristig orientierte Unternehmungsführung.
+8. Welche Faktoren beeinflussen die Kursentwicklungen an den Börsen?
+– Gewinnaussichten der Unternehmungen
+– Zins­ und Wechselkursentwicklungen
+– Zukunftserwartungen, Spekulationen, psychologische Massenphänomene 	–  Politik
+? S. 178 Verständnisfragen und Lösungen zu
+VII Konjunktur
+1. Arbeiten Sie in einer Matrix a Hauptvertreter, b historischen Hintergrund, c Hauptansatzpunkte, d Vorteile/Chancen, e Nachteile/Gefahren der unterschiedlichen konjunkturpolitischen Konzepte heraus.
+Klassischer  AnsatzKeynesianischer AnsatzMonetärer  AnsatzAngebotsökonomischer Ansatza  HauptvertreterAdam SmithJ. M. KeynesM. FriedmanLafferb  historischer 
+HintergrundIndividualismus und bürgerliches Ge dan kengut im 18. Jh. Adam Smith war ein Moralphilosoph.1920er­ und 
+1930er­Jahre: Die Klassik konnte nicht erklären, warum es zu einer mehrere Jahre dauernden Massenarbeitslosigkeit während der Weltwirtschaftskrise (Ungleichgewicht der Märkte) kommen konnte.1960er­Jahre: 
+Entstand als Kritik am Keynesianismus, insbesondere der prozyklisch wirkenden Geldolitik1970er­ und 
+1980er­Jahre: 
+Reaktion auf 
+Keynesianismus, der 
+das gleichzeitige 
+Auftauchen von
+Arbeitslosigkeit und Inflation nicht erklären konnte (Stagflation).c  Hauptansatzpunkte• Gesetz der unsichtbaren Hand: Persönlicher 
+Egoismus führt zur Maximierung des Gesamtwohls.
+• Staat nur als 
+Nachtwächter
+• Konjunkturelle Schwankungen sind nur temporärer Natur.
+• Marktkräfte 
+übernehmen 
+Anpassungen.• Aktive Konjunkturpolitik des Staates
+• Auch kurzfristiger Staatsinterventionismus
+• Bekämpfung von 
+Arbeitslosigkeit• Geldpolitik am langfristigen 
+Wirtschaftswachstum orientieren
+• Keine kurzfristigen Interventionen, welche die Destabilisierung noch verstärken würden.• Anreize für 
+Unternehmungen und Individuen schaffen
+• Mehr Markt – weniger Staat
+• Privatisierung
+• Deregulierung
+• Steuersenkungend  Vorteile/Chancen•  Ausnutzung der Marktkräfte•  Wirkt relativ kurzfristig (z. B. 
+Impulsprogramm des Bundes 1997)• Sinnvolle Politik
+• Heute allgemeine 
+Akzeptanz, dass 
+Basis für solide Wirtschaftsentwicklung• Verbesserte Wettbewerbsfähigkeit
+• Wirtschafts­wachstume  Nachteile/ Gefahren• Soziale Unruhen
+• Anpassung durch Märkte dauert zu lange, institutionelle Barrieren.• Prozyklische 
+Wirkung möglich
+• Aktionismus des Staates
+• Hohe Kosten, geringe Wirkung•  Keine kurzfristigen 
+Impulse bei 
+Rezessionen•  Anpassungskosten2. Geben Sie konkrete Beispiele, wie psychologische Effekte Konjunkturschwankungen verstärken können.
+ 	Massenpsychologische Impulse an der Börse in beide Richtungen (z. B. Panikverkäufe). Hamsterkäufe in Russland (Pessimismus) aufgrund von Erwartungen, dass die Preise aufgrund der Wirtschaftskrise und aufgrund der Abwertung des Rubels steigen und somit die Krise noch verschärfen. 
+3. Stellen Sie die Konjunkturverstärker den Konjunkturstabilisatoren gegenüber.
+Konjunkturverstärker Konjunkturstabilisatoren• Akzelerator
+• Multiplikator
+• prozyklisch• Arbeitslosenversicherungskasse ALV
+• Haushaltsangaben der öffentlichen Haushalte• antizyklisch	Verständnisfragen und Lösungen zu	? S. 192
+VIII Weltwirtschaft
+1. Nehmen Sie an, Sie bilden ein Zweiterteam zur Bearbeitung einer bestimmten Aufgabe. 
+Wie organisieren Sie sich, wenn die Beteiligten nicht die gleichen Fähigkeiten aufweisen?
+ 	Meistens übernimmt diejenige oder derjenige die Teilarbeiten, wo seine oder ihre Stärken liegen: z. B. übernimmt diejenige Person die Computerarbeit/Gestaltung, die sich besser damit auskennt oder auch hobbymässig damit befasst, aber eine andere Person die Recherchen oder die Präsentation. (Dennoch kann es sein, dass vom Lerneffekt her eine gerade umgekehrte Arbeitsteilung zu empfehlen wäre!)
+2. Wie lassen sich die Wohlstandsgewinne durch die Aufnahme von Handel zwischen Ländern erklären?
+ 	Durch die internationale Arbeitsteilung können sich Länder spezialisieren, wodurch bessere und billigere Güter und Dienstleistungen erstellt werden können und insgesamt mehr hergestellt werden kann.
+3. Listen Sie die Vor­ und Nachteile des Freihandels in einer Tabelle auf. Formulieren Sie auch weitere als die im Text erwähnten Argumente.
+	 	Vorteile und Nachteile von Freihandel
+Vorteile Nachteile• Economies of scale (Vorteile der Massenproduktion): sinkende Produktionskosten.
+• Die Weltproduktion und der Weltwohlstand insgesamt steigen. 
+• Theoretisch profitieren alle Volkswirtschaften vom Freihandel (bzw. es wird keine Volkswirtschaft schlechter gestellt als ohne Welthandel).
+• Schnellere Verbreitung moderner (effizienter und umweltfreundlicher) Technologien.
+• Anreize für Innovationen, da durch Handelsmöglichkeiten grössere Märkte erschlossen werden können.
+• Friedlichere Kooperation der Staaten.• Umweltkosten (nicht internalisierte gesellschaftliche oder volkswirtschaftliche Kosten).
+• Abhängigkeit vom Ausland, Macht­konstellationen (z. B. OPEC in den 1970er­Jahren).
+• Gefahr von Monokulturen und ihren Folgen (Klumpenrisiken).
+• Zolleinnahmen fallen weg.
+• Strukturelle Arbeitslosigkeit in den Branchen, die international nicht mehr konkurrenzfähig sind (Anpassungskosten).4. Was versteht man unter Regionalisierung, was unter Globalisierung des Handels?
+GlobalisierungRegionalisierungZunehmende Vernetzung der Volkswirtschaften als Folge des Abbaus von Handelshemmnissen (Der Abbau wird unter anderem von der WTO überwacht und vorangetrieben.). «Die Welt wird zu einem Dorf». 
+Liberalisierung grenzüberschreitender Investitionen (Direktinvestitionen).«Stufen» der regionalen wirtschaftlichen Integration (zunehmende Bindung):
+1. Freihandelszone (z. B. EFTA, NAFTA, 
+ASEAN) = Abschaffung von Zöllen unter den Mitgliedern, in der Aussenwirtschaftspolitik bleibt aber jedes Land frei (d. h. keine gemeinsamen Aussenzölle).
+2. Zollunion, z. B. EG (Europ. Gemeinschaft vor den Maastrichter Verträgen) = wie Freihandelszone, aber mit gemeinsamen Aussenzöllen, also Aussenwirtschaftspolitik nicht mehr in der Souveränität der Mitgliedstaaten.
+3. Gemeinsamer Binnenmarkt (z. B. Umsetzung der Maastrichter Verträge und der vier Freiheiten: freier Personen­, Güter­, Dienstleistungs­ und Kapitalverkehr) = wie Zollunion, zusätzlich teilweise gemeinsame Wirtschaftspolitik (z. B. Agrarpolitik in der EU), d. h. abnehmende Souveränität in der allgemeinen Wirtschaftspolitik.
+4. Wirtschafts­ und Währungsunion  (z. B. EWU seit Jan. 1999) = zusätzlich gemeinsame Währungspolitik (Abschaffung der eigenen Währung und keine eigen ständige Geldpolitik mehr). Es gibt nur noch eine Europ. Zentralbank (EZB).5. Stellen Sie alle relevanten Aspekte des Handels für die Schweizer Volkswirtschaft  zusammen. Welche Schlüsse ziehen Sie daraus?
+	 	Aspekte des Handels für die Schweizer Volkswirtschaft: Die Schweiz 
+– ist einer der weltweit grössten Direktinvestoren
+– verfügt über einen Ertragsbilanzüberschuss
+– verfügt über ein Kapitalverkehrsbilanzdefizit
+– ist Mitglied der WTO
+– steht abseits von der regionalen, wirtschaftlichen Integration in Europa: EFTA­Mitglied (aber EFTA durch Wachsen der EU und durch den EWR­Vertrag heute völlig unbedeutend). 
+Ablehnung des EWR­Vertrags 1992. 
+Bilaterale Verträge dagegen wurden im Dezember 1998 unterzeichnet und seither mehrfach weiterentwickelt.
+Schätzungsweise mehr als die Hälfte des Schweizer BIPs hängt direkt oder indirekt vom Handel mit dem Ausland ab!
+	Verständnisfragen und Lösungen zu	? S. 200
+IX Schweizerische Volkswirtschaft: Einzelaspekte
+1. Welche Dimensionen umfasst der Strukturwandel? Charakterisieren Sie jede Dimension kurz für die Schweiz.
+ 	Diese Aufgabe ist sehr gut geeignet, um mit den Schülerinnen und Schülern den Umgang mit Statistiken einzuüben. Quellen: z. B. Bundesamt für Statistik
+– Demographische Dimension: 
+Demographischer Strukturwandel: Zunehmende Überalterung in der Schweiz, d. h. der Anteil der Arbeitenden an der Gesamtbevölkerung nimmt ab. Dies bringt diverse Probleme, wie die Finanzierung der AHV, mit sich, wo die Erwerbsbevölkerung einer Generation die Rentner und Rentnerinnen einer Generation in einem Umlageverfahren finanzieren.
+– Regionale Dimension: 
+Regionale Wirtschaftsstruktur: In der Schweiz gibt es wesentliche Differenzen bei den Pro­Kopf­Einkommen der Kantone. Die Gründe dafür sind unterschiedlich.
+– Sektorale Dimension: 
+Die Bedeutung der einzelnen Wirtschaftszweige oder Sektoren in der Schweiz hat sich gemäss der Abbildung 57 resp. 58 verändert. Interessant ist dabei, dass die Schweiz bereits früh nach dem Zweiten Weltkrieg einen grossen Anteil der Bevölkerung in der Industrie und im Dienstleistungsbereich beschäftigte, sich der Wandel im Vergleich zum Ausland aber verlangsamt hat und viele andere europäische Länder heute einen grösseren Dienstleistungsbereich aufweisen als die Schweiz, obwohl sie von einem tieferen Niveau nach dem Zweiten Weltkrieg starteten.
+2. Warum können im strukturellen Wandel die freigesetzten Arbeitskräfte des einen Sektors nicht einfach im anderen Sektor eingesetzt werden, in dem ein Wachstum zu verzeichnen ist?
+ 	Weil die freigesetzten Arbeitskräfte nicht dieselben Qualifikationen aufweisen, die in den anderen Sektoren und Wachstumsbranchen erforderlich sind. Dies führt zu einer Arbeitslosigkeit, die als strukturelle oder qualitative Arbeitslosigkeit bezeichnet wird. Umschulung und Weiterbildung sind Wege, diesem Problem zu begegnen. Die Spezialisierung hat aber dazu geführt, dass die Anforderungen an die Umschulung heute sehr hoch sind.
+3. Warum ist die Schweiz einer der grössten Direktinvestoren der Welt?
+ 	Da der Heimmarkt der Schweiz sehr klein ist, begannen die Unternehmungen bereits früh, mit Exporten und Investitionen auch auf ausländischen Märkten tätig zu sein. Die Spezialisierung führte dazu, dass der Weltmarkt ausreichenden Absatz bietet, um die grossen Kosten der Entwicklung und Herstellung wieder einzubringen.
+4. Welche Auswirkungen haben die Direktinvestitionen in der Schweiz und im Ausland?
+ 	Durch Investitionen im Ausland werden dort Arbeitsplätze geschaffen. Neueste Untersuchungen in der Maschinenindustrie zeigen, dass Unternehmungen mit Direktinvestitionen im Ausland auch in der Schweiz sicherere Arbeitsplätze haben. Zudem steigt die Nachfrage nach Zwischenprodukten auf dem schweizerischen Heimmarkt. Die Verlagerung der 
+Produktion mit geringer Wertschöpfung hat es der Schweiz ermöglicht, sich auf die Produktion und Entwicklung von hochwertigen Gütern und Dienstleistungen zu spezialisieren, was massgeblich unser Lohnniveau und somit unseren Lebensstandard positiv beeinflusst (hat).
+5. Welche Standortfaktoren sind für die internationale Wettbewerbsfähigkeit besonders wichtig?
+– Ausbildungsniveau, Ausbildungsmöglichkeiten
+– Forschungs­ und Entwicklungstätigkeit
+– Wirtschaftliche Rahmenbedingungen: Infrastruktur, steuerliche Belastung, politische und soziale Stabilität und die internationale Ausrichtung
+– Offenheit der Märkte, «Good Governance»
+6. Welche Massnahmen würden Sie als Schweizer Wirtschaftsministerin oder ­minister zur Verbesserung der internationalen Wettbewerbsfähigkeit ergreifen?
+	 	Individuelle Antworten, z. B.:
+ 	Falls es zutrifft, dass Ausbildungsniveau und Forschungs­ und Entwicklungstätigkeit zu den wichtigsten Erfolgsfaktoren internationaler Wettbewerbsfähigkeit gehören, würde ein Ausbau des Bildungssystems und die Schaffung eines forschungsfreundlichen Umfelds die Wettbewerbsfähigkeit fördern. (Der Bund und viele Kantone sparen aber unter anderem gerade beim Bildungssystem, um die prekäre Finanzlage wieder in den Griff zu bekommen.) Langfristig ist aufgrund der beschriebenen Zusammenhänge zweifelhaft, ob diese Massnahmen nicht gegenteilig wirken können.
+7. Welches sind die Hauptprobleme des sozialen Sicherungssystems in der Schweiz?
+– Die Bekämpfung der Arbeitslosigkeit
+– Die Finanzierung der Sozialversicherungen, insbesondere der AHV, IV und Arbeitslosenversicherung
+– Zu starkes Ausgabenwachstum in den vergangenen Jahren, Verschuldung, Budget defizite, Bevölkerungsentwicklung
+8. Welche Massnahmen würden Sie vorschlagen zur Reduktion der
+ 	Diese Aufgabe eignet sich gut zur Diskussion von Vor­ und Nachteilen verschiedener  	Vorschläge zur Bekämpfung der Arbeitslosigkeit.  	a 	konjunkturellen Arbeitslosigkeit?
+ 	Individuelle Vorschläge (zu diskutieren in der Klasse)  	b 	strukturellen Arbeitslosigkeit?
+ 	Permanente Weiterbildung, Umschulung (insbesondere wieder vermehrt Generalistenwissen vermitteln) sowie individuelle Antworten
+9. Warum entstehen in der Schweiz regionale Unterschiede in der wirtschaftlichen  Entwicklung?
+	 	Individuelle Antworten
+10. Warum hat sich die Regionalpolitik in der Schweiz in den letzten Jahren stark gewandelt?
+ 	Negative Erfahrungen mit Subventionen: Zeitlich unlimitierte Subventionen haben keine Anreize geschaffen, sich an Veränderungen wirklich anzupassen. Es kam eher zu einer Strukturerhaltung als zu einer Hilfe zur Anpassung.
+ 	Heute versucht man eher, Neugründungen von Unternehmen zu unterstützen und innovationsträchtige Projekte zu fördern.
+11. Erstellen Sie eine Liste aller Instrumente der Regionalpolitik und bewerten sie diese, indem Sie Vor­ und Nachteile gegeneinander abwägen.
+VorteileNachteile/ProblemeInvestitionshilfe für 
+Berggebiete (zinsgünstige Darlehen zur Teilfinanzierung von Infrastrukturprojekten)•  Bessere Infrastruktur in 
+Berggebieten  
+(auch für den Tourismus von Bedeutung)•  Politisch motivierte Auswahl von ProjektenFinanzierungsbeihilfen für wirtschaftlich bedrohte Regionen•  Abfederung von wirtschaftlichen Problemen•  Tendenz zur Erhaltung von StrukturenIndirekte Hilfe über 
+Infrastrukturausbau, 
+Subventionen (in der 
+Landwirtschaft),  
+Steuer­ und Arbeitspolitik•  Ausgleich zwischen armen und reichen Regionen•  Häufig fehlen vor Ort qualifizierte FachkräfteKantonale Wirtschaftsförderung: Standortmarketing, insbesondere Vereinfachung und Beschleunigung von Bewilligungsverfahren und Beratungsleistungen• Unterstützung von Unternehmen
+• Schaffen von Arbeits­plätzen•  Privilegierung neuer 
+Unternehmen gegenüber bestehenden
+? S. 214	Verständnisfragen und Lösungen zu
+I Staat und Gesellschaft
+1. Welche Aufgaben hat das Recht?
+	 	Mögliche Stichwörter für eine Diskussion:
+– Regelung des friedlichen Zusammenlebens einer Gesellschaft;
+– Schutz der Persönlichkeitsrechte des Einzelnen vor staatlichen und privaten  Übergriffen; 	– Vermittlung von Rechtssicherheit und Rechtsgleichheit;
+– Berechenbarkeit und Beschränkung des staatlichen Handelns. 	– Entscheid bei Konflikten
+2. Nennen Sie Beispiele von Monokratien in der Geschichte. (Befragen Sie dazu auch Ihre Geschichtslehrerin oder Ihren Geschichtslehrer.)
+– Frankreich während der Herrschaft der Bourbonen-Könige; 	– Preussen während der Herrschaft der Hohenzollern-Könige.
+3. Würden Sie die Einführung der Folter oder Todesstrafe in der Schweiz befürworten oder ablehnen? Begründen Sie Ihre Ansicht.
+	 	Mögliche Stichwörter für eine Diskussion:
+– Achtung der Persönlichkeitsrechte und der Menschenwürde in jedem Fall;
+– Gefahr eines Justizirrtums;
+– soll der Staat über Tod und Leben entscheiden dürfen;
+– für welche Verbrechen/Vergehen soll die Todesstrafe gelten (z. B. sowohl bei einem Banküberfall mit Todesfolge, der aus materieller Not heraus begangen wurde, als auch bei einem Bankraub aus Geldgier).
+4. Welches ist der Grundgedanke der Gewaltentrennung?  	Kontrolle der staatlichen Macht, Schutz vor Machtmissbrauch
+5. Wer ist für Gesetzesänderungen zuständig?
+a im Fall der Bundesverfassung  	Volk und Stände
+b im Fall eines Bundesgesetzes  	Vereinigte Bundesversammlung  	c 	 Können die Stimmbürger die Einführung eines von der Bundesversammlung  beschlossenen Gesetzes verhindern?
+	 	Ja (Fakultatives Referendum)
+6. Beschaffen Sie sich Dokumentationsmaterial der in der Schweiz aktiven politischen Parteien und vergleichen Sie deren Inhalt miteinander.
+	 	Recherche im Internet
+7. Suchen Sie nach historischen oder aktuellen Beispielen von Staaten, in welchen die in der Bundesverfassung gewährleisteten Freiheitsrechte nicht bestehen.
+– Das Dritte Reich Hitlers;
+– der Irak Saddam Husseins;
+– die Sowjetunion zwischen 1917 und 1989 (Stichwort: Säuberungsprozesse von Stalin in den 1930er-Jahren);
+– Militärdiktaturen in Südamerika im 20. Jahrhundert (Argentinien, Chile).
+8. Listen Sie mithilfe des Internets die aktuell in der Schweiz hängigen Initiativen auf.  	Je nach Aktualität 
+9. Wählen sie eine Initiative aus und suchen Sie im Internet Informationen über Ursprung und Zielsetzung dieser Initiative.
+	 	Je nach Aktualität 
+10. Am 29.11.2009 wurde in der Schweiz über die sogenannte «Minarett-Initiative»  abgestimmt.
+ 	a 	Suchen Sie im Internet Informationen über Ziel und Zweck dieser Initiative.  	Recherche im Internet  	b 	 Suchen sie im Internet Informationen über den Ausgang dieser Initiative.  	Recherche im Internet  	c 	Welches Grundrecht war von dieser Initiative betroffen?  	Glaubens- und Gewissensfreiheit (Art. 15 BV)  	d 	Wie hätten sie abgestimmt? Begründen Sie Ihre Meinung.  	Diskussion
+	Verständnisfragen und Lösungen zu	? S. 218
+II Das Privatrecht im Allgemeinen
+1. Welche grossen Rechtsgebiete umfasst das ZGB?
+	 	Personenrecht, Familienrecht, Erbrecht, Sachenrecht, Obligationenrecht
+2. Entscheiden Sie, ob die folgenden Sachverhalte durch öffentliches oder privates Recht geregelt werden. Welche Gesetze werden hauptsächlich betroffen?
+ 	a 	A stiehlt in der Migros diverse Esswaren.  	Öffentliches Recht (Strafgesetzbuch)  	b 	B möchte einen Lernfahrausweis für Motorfahrzeuge erhalten.  	Öffentliches Recht (Strassenverkehrsgesetz)
+ 	c 	 C will ein Einfamilienhaus bauen und erkundigt sich über die Voraussetzungen für die Erteilung einer Baubewilligung.  	Öffentliches Recht (Kantonales Baurecht)  	d 	D schuldet einem Geschäftspartner aus einem Auftragsverhältnis 5 000 Franken.  	Privatrecht (Obligationenrecht)  	e 	Der Unternehmer E schickt einem Arbeitnehmer die fristlose Kündigung.  	Privatrecht (Obligationenrecht)  	f 	 Das Arbeitsgesetz schreibt vor, dass die Nachtarbeit höchstens neun Stunden betragen darf.
+ 	Öffentliches Recht (Arbeitsgesetz)  	g 	G löst alljährlich bei der Gemeinde ein Fischerpatent.
+	 	Öffentliches Recht (Fischereigesetz)
+? S. 228 Verständnisfragen und Lösungen zu
+III Das Personenrecht
+1. Stellen Sie auf einer Zeitachse die folgenden Begriffe in der richtige Reihenfolge grafisch dar: Urteilsfähigkeit, beschränkte Handlungsunfähigkeit, Rechtsfähigkeit, Volljährigkeit.  	Rechtsfähigkeit, Urteilsfähigkeit, beschränkte Handlungsunfähigkeit, Volljährigkeit
+2. Warum sind nicht alle Menschen handlungsfähig?
+ 	Es gibt Menschen, die aufgrund ihres Alters oder ihrer geistigen oder körperlichen Gesundheit nicht in der Lage sind, ihre rechtlichen Angelegenheiten selbst zu regeln. Ihnen wird deshalb zu ihrem eigenen Schutz die Fähigkeit abgesprochen, sich rechtlich unbeschränkt verpflichten zu können (z. B. Kinder, u. U. demenzkranke Menschen, geistesschwache Menschen).
+3. Begründen Sie, warum die Urteilsfähigkeit von Fall zu Fall beurteilt werden muss.
+ 	Die Urteilsfähigkeit ist die Fähigkeit, vernunftgemäss zu handeln (Art. 16 ZGB). Ob diese Fähigkeit gegeben ist, hängt von der Schwierigkeit und Komplexität eines bestimmten Geschäftes ab. Für ein einfaches Alltagsgeschäft ist sie u. U. gegeben, während sie bei derselben Person für komplexe Rechtsgeschäfte fehlen kann (z. B. Annahme einer Erbschaft mit problematischen Vermögensanteilen).
+4. Wann ist eine Person in der Regel beschränkt handlungsunfähig?
+	 	Wenn sie urteilsfähig, aber noch nicht volljährig ist.
+5. Welche Rechtshandlungen kann eine beschränkt handlungsunfähige Person vornehmen?
+a Handlungen, die für die Person keine Nachteile mit sich bringen (z. B. Annahme einer Schenkung).
+b Handlungen, die mit der Einwilligung des gesetzlichen Vertreters erfolgen (z. B. Kauf eines Mittagessens in der Kantine) sowie Verpflichtungen, die aus eigenem Arbeitserwerb erfüllt werden können (z. B. Lehrling, der mit seinem Lohn eine Stereoanlage kauft).
+6. In welchen Fällen ist eine Persönlichkeitsverletzung nicht widerrechtlich?
+ 	Bei Einwilligung; wenn ein überwiegendes privates oder öffentliches Interesse besteht; wenn eine gesetzliche Grundlage vorliegt.
+7. Wie kann sich ein Betroffener gegen eine Persönlichkeitsverletzung zur Wehr setzen?
+– Klage gem. Art. 28 ZGB, Anspruch auf  	– Schadenersatz
+– Beseitigung der Verletzung
+– Verbot der drohenden Verletzung
+– Strafrechtliches Vorgehen (Strafanzeige wegen Ehrverletzung, Freiheitsberaubung, Körperverletzung usw.)
+8. Was ist eine juristische Person?
+ 	Eine vom Gesetz künstlich geschaffene Person, ausgestattet mit Rechts- und Handlungsfähigkeit.
+9. Welche wichtigsten Formen der juristischen Personen gibt es?
+	 	GmbH, AG, Genossenschaft, Verein, Stiftung
+10. Welche Funktionen haben juristische Personen?
+ 	Eine oder mehrere natürliche und/oder juristische Personen können mittels Gründung einer juristischen Person ein gemeinsames (wirtschaftliches oder ideelles) Ziel leichter erreichen. Die juristische Person ist eine selbstständige Rechtspersönlichkeit, die mit ihrem eigenen Vermögen haftet und in eigenem Namen Rechte und Pflichten eingehen kann. Sie ist unabhängig von der einzelnen natürlichen Person.
+11. Bestimmt sich das Stimmrecht im Verein nach Köpfen oder nach Kapital?
+	 	Nach Köpfen
+12. Der Verein XY besteht aus 240 Mitgliedern. Wie viele Mitglieder braucht es nach Gesetz höchstens, um gegen den Willen des Vorstands die Einberufung einer Vereinsversammlung zu verlangen?
+	 	48 (1/5) oder je nach Statuten weniger (Art. 64 ZGB)
+Verständnisfragen und Lösungen zu IV Das Familienrecht? S. 2401. Welche Vor- bzw. Nachteile hat die Ehe gegenüber dem Konkubinat?
+	 	Vorteile:  	–  gegenseitige Unterhaltsberechtigung
+– Erbberechtigung
+– Witwen- bzw. Witwerrente (AHV, BVG)
+– Möglichkeit eines Namenswechsels
+– klare rechtliche Verhältnisse
+	 	Nachteile: –  evtl. Wahl eines neuen Namens
+– vorgeschriebene Pflichten (Unterhalts-, Beistandspflichten usw.)
+– die Gemeinschaft kann weniger schnell und nicht mehr formlos  aufgehoben werden.
+– Sofern beide Ehegatten arbeiten: evtl. höhere Steuern wegen Progression
+2. Welche Unterschiede bestehen zwischen der Errungenschaftsbeteiligung und der  Gütertrennung?
+ 	Bei der Errungenschaftsbeteiligung wird das während der Ehe erwirtschaftete Vermögen (z. B. Ersparnisse) bei deren Auflösung (durch Tod oder Scheidung) zwischen den Parteien hälftig geteilt.
+ 	Bei der Gütertrennung sind die Vermögen der Ehegatten vollständig getrennt; es bestehen keine gegenseitigen Beteiligungen.
+3. Was gehört bei der Errungenschaftsbeteiligung zum Eigengut?
+ 	In die Ehe eingebrachte Vermögenswerte, ganz persönliche Gegenstände, Erbschaften und Genugtuungsansprüche (Art. 198 ZGB)
+4. A kauft Lose für 20 Franken aus ihrem Arbeitsverdienst und gewinnt damit eine Million Franken. Zu welcher Gütermasse gehört dieser Gewinn, wenn A und ihr Ehemann B keinen besonderen Güterstand vereinbart haben?
+	 	Zur Errungenschaft von A
+5. Nach welchen Kriterien werden bei einer Ehescheidung Unterhaltsbeiträge für einen Ehegatten zugesprochen?
+ 	Ehedauer, Alter der Kinder, Alter der Ehefrau, Ausbildung der Ehefrau, Gesundheit der Ehefrau, wirtschaftliche Lage, finanzielle Leistungsfähigkeit des Ehemannes,  Aufgabenteilung während der Ehe
+6. Wann kommt es zu einer Kampfscheidung?
+	 	Wenn sich ein Paar über die Folgen einer Scheidung nicht in einer Konvention einigen kann.
+7. Wann können in einem Ehescheidungsurteil zugesprochene Unterhaltsbeiträge nachträglich reduziert oder aufgehoben werden?
+ 	Wenn sich die Einkommensverhältnisse der unterhaltsverpflichteten Person wesentlich verschlechtern, wenn sich der unterhaltsberechtigte Partner wieder verheiratet oder während mehr als 5 Jahren im Konkubinat lebt oder wenn sich die wirtschaftlichen Verhältnisse des unterhaltsberechtigten Partners verbessern.
+8. Was verstehen Sie unter einer Konventionalscheidung?
+ 	Eine zwischen den Ehepartnern abgeschlossene Vereinbarung über die wichtigsten Folgen der Scheidung, die vom Gericht zu genehmigen ist.
+9. Unter welchen Voraussetzungen kann sich ein Ehegatte gegen den Willen des anderen Ehegatten scheiden lassen?
+ 	Wenn die Parteien seit zwei Jahren getrennt leben oder wenn dem scheidungswilligen Ehegatten vor Ablauf dieser Frist die Fortsetzung der Ehe aus schwerwiegenden Gründen, die ihm nicht zuzurechnen sind, nicht zugemutet werden kann (Art. 114, 115 ZGB).
+? S. 250 Verständnisfragen und Lösungen zu
+V Das Erbrecht
+1. Wie kann ein Erbe die Haftung für Schulden des Erblassers verhindern?
+	 	Durch die Ausschlagung der Erbschaft
+2. Gibt es gesetzliche Erben, die mit dem Erblasser nicht verwandt sind?
+	 	Ehegatte
+3. Der überlebende Ehegatte bezieht beim Ableben seines Partners Teile des ehelichen Vermögens in zwei Schritten. Wie heissen diese Schritte?
+	 	Güterrechtliche Auseinandersetzung und erbrechtliche Teilung
+4. Welches sind die Unterschiede zwischen Testament und Erbvertrag?
+ 	Ein Testament kann im Gegensatz zum Erbvertrag auch ohne Urkundsperson, z. B. Notar, erstellt werden. Ein Testament ist ein einseitiges Rechtsgeschäft, ein Erbvertrag ein zweiseitiges. Entsprechend kann ein Testament auch einseitig aufgehoben werden, indem es der Erblasser vernichtet oder ein neues Testament verfasst. Ein Erbvertrag kann nur im Einverständnis sämtlicher Vertragsparteien aufgehoben werden, was viel schwieriger ist.
+5. a 	Wer hat allenfalls Interesse daran, eine Ungültigkeitsklage zu erheben?
+ 	Eine Person, die in einer Verfügung von Todes wegen (Testament oder Erbvertrag) nicht berücksichtigt oder benachteiligt worden ist.  	b 	Wogegen richtet sich eine solche Klage?
+ 	Die Ungültigkeitsklage richtet sich gegen die Personen, die in der betreffenden  Verfügung von Todes wegen aus Sicht des Klägers zu Unrecht begünstigt sind (Art. 519 ZGB). Der Kläger wird z. B. geltend machen, der Erblasser sei zum Zeitpunkt der Errichtung des Testaments nicht urteilsfähig gewesen.
+6. a 	Was verstehen Sie unter verfügbarer Quote?
+ 	Quote = Anteil; Gegenstück zu Pflichtteil. Der Erblasser ist bei diesem Anteil frei in der Zuweisung.
+	 	b 	Wovon hängt deren Grösse ab?
+ 	Die Grösse der verfügbaren Quote hängt davon ab, welche Pflichtteilserben vorhanden sind. Sofern Nachkommen vorhanden sind, ist die verfügbare Quote am kleinsten (1/4), da es dem Gesetzgeber beim Pflichtteilsrecht vor allem um die wirtschaftliche Sichers tellung der Nachkommen geht. Sind keine Nachkommen, dafür jedoch die Eltern als Pflichtteilerben vorhanden, ist die verfügbare Quote grösser (1/2), weil deren Bedürfnis nach wirtschaftlicher Sicherheit angesichts ihres Alters kleiner ist.
+7. Worin sehen Sie den Sinn des Pflichtteilrechts?
+ 	Sicherung des wirtschaftlichen Fortbestandes der Erbberechtigten, Erhaltung des Familieneigentums
+8. a 	Warum sieht der Gesetzgeber die Möglichkeit der Enterbung vor?
+ 	In gewissen Fällen ist es dem Erblasser nicht zumutbar, einem Erben dessen Pflichtteil zu belassen. Die Enterbung ermöglicht den Entzug des Pflichtteils.
+	 	b 	Welche Gründe für Enterbung kennen Sie?
+ 	Pflichtteilsberechtigte, die familienrechtliche Pflichten schwer verletzt oder Verbrechen am Erblasser begangen haben, sollen nicht in den Erbgenuss kommen (Art. 477 ZGB).
+9. Mit welcher Klage kann eine Verletzung des Pflichtteils geltend gemacht werden?
+	 	Herabsetzungsklage (Art. 522 ff. ZGB)
+10. Halten Sie das Schweizerische Erbrecht für gerecht? 
+Begründen Sie Ihre Antwort.
+	 	Individuelle Antworten
+? S. 273 Verständnisfragen und Lösungen zu
+VI Das Obligationenrecht
+1. Was heisst Obligation im rechtlichen Sinn?
+ 	Eine Obligation ist ein Schuld- oder Verpflichtungsverhältnis (auch Forderungsverhältnis oder Bindung (lat.)).
+2. Was ist ein Vertrag?
+ 	Ein Vertrag ist eine gegenseitig übereinstimmende Willenserklärung von zwei oder mehreren Personen, die auf die Herbeiführung eines wirtschaftlichen Erfolges gerichtet ist.
+3. Über welche wesentlichen Punkte müssen sich die Parteien einig sein, damit folgende Verträge entstehen: 
+ a Kaufvertrag:  Kaufgegenstand, Preis, Übergabe des Gegenstandes (Ort und Zeit)  b Mietvertrag:  Mietgegenstand, Höhe der Miete, Mietbeginn bzw. -dauer  c Arbeitsvertrag:  Arbeit und Lohn  d Darlehensvertrag: Höhe des Darlehens, allfälliger Zins, Zeitpunkt der Rückzahlung
+4. Suchen Sie die richtigen OR-Artikel für den Vertrag «Schenkung» und den Vertrag  «Auftrag». Welches sind die wesentlichen Punkte dieser Verträge?
+	 	Schenkung: Art. 239 ff. OR 
+	 	Schenkungsobjekt, Übergabe und Annahme des Objektes
+	 	Auftrag: Art. 394 ff. OR
+	 	Umschreibung der Verpflichtung des Beauftragten (z. B. Auftragsmandat an einen Anwalt: 
+Umfang des Tätigkeitsgebietes, Regelung Entgelt nach Stundenaufwand, Pauschale, %-Beteiligung usw.)
+5. Warum hat der Gesetzgeber Formvorschriften erlassen?
+	 	Schutz vor Übereilung und aus Beweisgründen
+6. Zählen Sie drei Formvorschriften auf und geben Sie je ein Beispiel (inkl. Gesetzesangabe).
+ 	Einfache Schriftlichkeit: Lehrvertrag (Art. 344a OR), Konkurrenzverbot (Art. 340 OR),  Abtretung einer Forderung (Art. 165 OR), Abzahlungskauf (Art. 226a OR)
+	 	Qualifizierte Schriftlichkeit: handschriftliches Testament (Art. 505 ZGB)
+ 	Öffentliche Beurkundung: Kaufvertrag für Grundstück (Art. 216 OR), Bürgschaftsvertrag einer natürlichen Person über CHF 2000.– (Art. 493 Abs. 2 OR), Ehevertrag (Art. 184 OR),  Erbvertrag (Art. 512 ZGB)
+7. Bärlocher verspricht seinem Neffen Dürrenmatt 1 000 Franken, wenn er bis zur Vollendung des 20. Lebensjahres keine Zigarette raucht. Hat sich Bärlocher dadurch rechtlich  verpflichtet (Kurzbegründung)?
+ 	Nein. Es liegt ein Schenkungsversprechen vor, das zu seiner Gültigkeit der Schriftform bedarf (Art. 243 OR).
+8. C hat am Haus des D das Dach repariert. D macht verschiedene Mängel geltend und will die Rechnung des C über 15 000 Franken nur zur Hälfte bezahlen. Nach langem Hin und Her schreibt C dem D, die Sache sei für ihn erledigt, wenn D bis zum 31. August 2016 10 000 Franken bezahle. D schreibt zurück, er sei mit den 10 000 Franken einverstanden, bezahle aber erst am 30. September 2016. Nun wird C wütend. Er klagt D vor Gericht ein und verlangt die vollen 15 000 Franken. D hält C vor Gericht entgegen, sie hätten sich auf 10 000 Franken geeinigt. Hat D Recht (Kurzbegründung)?
+ 	D hat nicht Recht, da er auf die Offerte von C (Zahlungsfrist bis zum 31. 8. 16) nicht eingegangen ist und seinerseits ein Gegenangebot bis 30. 9. 16 gestellt hat, das von C nicht akzeptiert worden ist. Über einen wesentlichen Punkt (Zeitpunkt der Zahlung) lag somit keine übereinstimmende Willenserklärung der Parteien vor. Entsprechend muss D den Beitrag von CHF 15 000.– bezahlen, sofern der Richter nicht aufgrund der Mängel einen tieferen Betrag festsetzt.
+9. E und F planen eine gemeinsame Reise nach Australien. E hat bereits für die erste Nacht ein Doppelzimmer in Sydney und für vier Wochen ein Auto gemietet. Im letzten Moment zieht sich F mit der Begründung zurück, er könne aus beruflichen Gründen nicht verreisen. Muss sich F an diesen Kosten beteiligen (Kurzbegründung)?
+ 	F muss sich an den Kosten beteiligen. E hätte ohne F wohl kaum ein Doppelzimmer gemietet und hätte allenfalls gar keine Reise nach Australien unternommen. Auch an die Miete des Autos muss F seinen Beitrag leisten, da der Nichtantritt der Reise zu kurzfristig erfolgte. Zwischen E und F ist bezüglich der Tragung der Reisekosten ein Vertrag zustande gekommen.
+10. Worauf hat ein Käufer zu achten, wenn er die Kaufsache nicht sofort bei Vertragsschluss übernimmt?
+ 	Er muss sich bewusst sein, dass er nach gesetzlicher Regelung grundsätzlich für einen zufälligen Untergang oder Beschädigung des Kaufgegenstandes nach Vertragsabschluss haftet und den Kaufpreis auch in diesem Fall bezahlen muss. Er ist deshalb gut beraten, diese gesetzliche Regelung im Einzelfall vertraglich abzuändern (z. B.: «Nutzen und Schaden gehen erst mit der Übergabe der Kaufsache auf den Käufer über»).
+11. A kauft von B einen Occasionswagen. Nur zwei Tage später wird er von der Polizei angehalten; nach einer Kontrolle des Autos verbietet ihm die Polizei die Weiterfahrt. Grund: Nicht bewilligte Änderungen des PW (Tieferlegung der Chassis, zu breite Reifen, nicht erlaubte Teile am Motor). Was kann A gegen den Verkäufer unternehmen?
+ 	Entscheidend ist der Wortlaut des Vertrages: Falls A gewusst hat, dass das Auto nicht bewilligte Änderungen aufweist, kann er selbstverständlich nicht gegen den Verkäufer vorgehen. Anders ist es, wenn ihm der Verkäufer zugesichert hat, dass am PW seit der letzten Prüfung nichts geändert wurde; für diese Zusicherung ist der Verkäufer haftbar. Falls der Kaufvertrag keine Zusicherung enthält, muss geprüft werden, ob der Käufer davon ausgehen durfte, dass er einen geprüften Wagen gekauft hat oder ob er mit den nun vorliegenden Änderungen rechnen musste. Dies hängt in erster Linie vom Preis ab: Ein günstiger Preis spricht eher dafür, dass der Verkäufer nicht haftet.
+12. Warurn ist der Abzahlungsvertrag in einem besonderen Gesetz geregelt?
+ 	Der Gesetzgeber will hier, ähnlich wie beim Miet- und Arbeitsvertrag, eine Vertragspartei schützen: Der Käufer soll nicht unnötig der Versuchung erliegen, Sachen zu kaufen, nur weil sie nicht bar bezahlt werden müssen. Deshalb ist der Verkäufer verpflichtet, im Vertrag anzugeben, wieviel teurer die Sache wird, wenn sie nicht bar bezahlt wird, der Käufer hat das Recht, innert 7 Tagen vom Vertrag zurückzutreten, wenn er merkt, dass sein Budget nicht ausreicht, um die Raten zu bezahlen, und der Vertrag muss schriftlich abgeschlossen werden, damit er gültig ist.
+13. Warum wird die Vertragsfreiheit im OR bei bestimmten Vertragstypen eingeschränkt? Nennen Sie Beispiele.
+ 	Vor allem beim Arbeits- und Mietvertrag enthält das OR zahlreiche zwingende Vors chriften, welche die regelmässig schwächere Vertragspartei (Arbeitnehmerinnen und Arbeitnehmer, Mieterinnen und Mieter) schützen sollen. Es handelt sich um sozial politische Einschränkungen der Vertragsfreiheit.
+14. Inwiefern ist die Vertragsfreiheit beim Mietrecht eingeschränkt?.
+– Kündigungsfristen bei Wohnungen (Art. 266c OR)
+– Formvorschriften bei Kündigung (Art. 266l-n OR)
+– Regelungen betreffend missbräuchliche Mietzinse (Art. 269 ff. OR)
+– Kündigungsschutz (Art. 271 ff. OR)
+15. Unter welchen Bedingungen kann eine Mieterin eine Erstreckung des Mietverhältnisses verlangen?
+ 	Die Kündigung muss für die Mieterin einen Härtefall darstellen (Art. 272 ff. OR). Kriterien sind die Dauer des Mietverhältnisses, die persönlichen und familiären Verhältnisse der Mieterin (z. B. Krankheit, Schwangerschaft, finanzielle Situation), ein allfälliger dringender Eigenbedarf des Vermieters sowie die Verhältnisse auf dem Wohnungsmarkt.
+16. A erkrankt. Unter welchen Umständen hat A Anspruch auf Lohnfortzahlung?
+ 	Sofern das Arbeitsverhältnis länger als drei Monate gedauert hat, ist der Arbeitgeber dem Arbeitnehmer gegenüber von Gesetzes wegen verpflichtet, den Lohn bei Krankheit und Schwangerschaft, Unfall oder Militärdienst für eine bestimmte Zeit zu zahlen.
+17. Wann (Zeitpunkt) ist eine Kündigung gültig?
+ 	Die Kündigung ist empfangsbedürftig und somit gültig, wenn sie der Adressat (Arbeitnehmer oder -geber) erhält. Beträgt die Kündigungsfrist z. B. gemäss Art. 335c OR im 1.  Dienstjahr einen Monat und erhält sie der Arbeitgeber am 2. Juni, so ist die Kündigung erst per 31. Juli gültig, da die Kündigung stets auf das Ende eines Monats zu erfolgen hat (andere Abmachungen vorbehalten).
+18. In welchen Fällen ist die Vertragsfreiheit bei den Bestimmungen über die Kündigung eines Arbeitsvertrages eingeschränkt?
+– Begründungspflicht der Kündigung (Art. 335 Abs. 2 OR)
+– Regelungen betreffend missbräuchlicher Kündigung (Art. 336 ff. OR)
+– Kündigungen zur Unzeit (Art. 336c–336d OR)
+– Regelung betreffend fristlose Kündigung (Art. 337–337c OR)
+19. Unter welchen Voraussetzungen darf eine Partei das Arbeitsverhältnis fristlos auflösen?
+ 	Wenn die Aufrechterhaltung des Arbeitsverhältnisses nicht mehr länger zumutbar ist (Art. 337 OR), z. B. bei Diebstahl, massiven Beschimpfungen, wiederholtem Zuspätkommen trotz Verwarnung usw.
+20. A und B besprayen die Fassade einer Kirche. Haften A und B? Hinweis: Gehen Sie so vor, dass Sie die Voraussetzungen einer unerlaubten Handlung überprüfen. 
+ 	Schaden: Es ist ein Schaden entstanden (Kosten für die Reinigung der Fassade).  Voraussehbarer Kausalzusammenhang: Das Besprayen der Wand hat zur Verunreinigung der Fassade geführt.
+	 	Widerrechtlichkeit: Tatbestand StGB: Sachbeschädigung
+ 	Verschulden: Es liegt eine vorsätzliche Handlung vor. A und B haben bewusst die Fassade der Kirche besprayt.
+ 	Damit sind alle vier Tatbestandesmerkmale erfüllt. Entsprechend haften A und B und werden schadenersatzpflichtig.
+21. P zerkratzt in der Einstellhalle eines Blocks sämtliche dort abgestellten Autos. Der Schaden beläuft sich auf total ca. 25 000 Franken. Es stellt sich heraus, dass P psychisch krank ist. Haftet er aus unerlaubter Handlung (Kurzbegründung)?
+ 	Eine Haftung aus unerlaubter Handlung setzt u. a. ein Verschulden voraus. Im geschilderten Fall kann nicht davon ausgegangen werden, dass der Täter sein Verhalten als rechtswidrig hätte erkennen können. Entsprechend kann ihm kein Vorwurf gemacht werden. Sofern ein psychiatrisches Gutachten den Täter als schuldunfähig erklärt, haben die Fahrzeughalter die Schäden selber zu übernehmen.
+22. Gerber und Huber haben eine Schlägerei. Huber, der betrunken war und die Schläg erei durch seine Provokation anzettelte, ist in der Folge für zwei Tage arbeitsunfähig. Haftet Gerber aus unerlaubter Handlung (Kurzbegründung)?
+ 	Der (gesundheitliche) Schaden von Huber ist gegeben, ebenfalls der adäquate Kausalzusammenhang zwischen dem Verhalten von Gerber und der Verletzung von Huber. Allenfalls ist jedoch das Verhalten von Gerber nicht rechtswidrig, weil er in Notwehr handelte (Art. 52 OR; Art. 15 StGB).
+23. A und B haben mündlich einen Kaufvertrag über eine alte Music-Box abgeschlossen. Als Kaufpreis vereinbarten sie 8 000 Franken, zahlbar in monatlichen Raten à 500 Franken. 
+Nach zwei Ratenzahlungen merkt der Käufer B, dass er sich finanziell übernommen hat. Kann er die Music-Box zurückgeben und sein Geld zurückfordern (Kurzbegründung)?
+	 	A und B haben einen Abzahlungsvertrag (Art. 226a OR) mündlich geschlossen. Zu seiner 
+Gültigkeit bedarf ein solcher jedoch der Schriftform. B kann deshalb unter Rückgabe der Stereoanlage die bereits bezahlten Raten zurückfordern, da keine vertragliche Grundlage besteht (Art. 62 OR). Für die Zeit der Benützung der Stereoanlage darf A allerdings einen Mietzins verlangen.
+24. Der 17-jährige Christian kauft in einem Fachgeschäft einen TV-Apparat für 4 000 Franken und macht von seinem Lehrlingslohn eine Anzahlung von 1 000 Franken. Den restlichen Kaufpreis muss Christian in Raten von 300 Franken abzahlen. Als die Eltern von Christian den schriftlichen Kaufvertrag sehen, sind sie überhaupt nicht glücklich. Kann der Kaufvertrag rückgängig gemacht und das Geld zurückgefordert werden? Mit welcher rechtlichen Begründung?
+ 	Art. 13 des Bundesgesetzes über den Konsumkredit schreibt vor, dass der Abzahlungs vertrag bei Minderjährigen –  Christian ist noch nicht 18-jährig – der Zustimmung des gesetzlichen Vertreters bedarf. Diese Zustimmung ist nicht erfolgt, entsprechend ist der abgeschlossene Vertrag nichtig. Das Geschäft wird rückabgewickelt. Christian muss/kann den TV-Apparat zurückgeben und erhält seinerseits die Anzahlung zurück unter Abzug eines Mietanteils für die Dauer der Benützung (Art. 62 OR).
+25. Der verbeiständete D schliesst einen Mietvertrag für eine 4-Zimmer-Wohnung ab. Die Wohnung kann frühestens in zwei Jahren wieder gekündigt werden. D leistet ein Mietzinsdepot von 2 500 Franken. Der Beistand von D ist mit diesem Vertrag gar nicht einverstanden. Kann er das Depot zurückverlangen?
+ 	Der verbeiständete D kann einen Mietvertrag für eine 4-Zimmer-Wohnung nicht selber abschliessen. Dazu braucht es das Einverständnis des Beistandes. Ohne diese Zustimmung liegt für die Leistung des Depots kein gültiger Grund im Sinn von Art. 62 OR vor.
+? S. 282	Verständnisfragen und Lösungen zu
+VII  Die zwangsweise Durchsetzung  von Zivilansprüchen
+1. Wo muss ein Zivilprozess grundsätzlich eingeleitet werden?
+ 	Grundsätzlich ist eine Zivilklage am Wohnsitz des Beklagten einzureichen (Art. 10 Abs. 1 lit. a ZPO). Der Gerichtstand kann aber in vielen Bereichen auch vertraglich vereinbart werden. In wichtigen Rechtsgebieten gelten abweichende Regeln: So kann eine eherechtliche Klage am Wohnsitz einer Partei eingereicht werden (Art. 23 ZPO) oder erbrechtliche Klagen sind am letzten Wohnsitz des Erblassers einzureichen (Art. 28 ZPO). Klagen aus unerlaubter Handlung können am Wohnsitz der geschädigten Person oder der beklagten Partei oder am Ort des Geschehens eingereicht werden (Art. 36 ZPO).
+2. A behauptet, B schulde ihm ein Darlehen von 15 000 Franken.
+a Welche Beweismittel stehen A im Prozess gegen B zur Verfügung?  	Urkunde (z. B. Vertrag), Parteibefragung, allenfalls Zeugenaussagen
+b Sofern A über keinen schriftlichen Vertrag mit B verfügt: Kann er B mit Aussicht auf Erfolg betreiben oder empfiehlt es sich für A, zuerst einen Zivilprozess durchzuführen?  Begründen Sie Ihre Antwort.
+ 	B wird vermutlich im Betreibungsverfahren Rechtsvorschlag erheben. Damit die Fortsetzung der Betreibung möglich ist, muss ein Zivilprozess eingeleitet werden, um einen definitiven Rechtsöffnungstitel zu erwirken (gerichtliches Urteil). Allerdings besteht die Möglichkeit, dass B im Betreibungsverfahren beim Erhalt des Zahlungsbefehls seiner Pflicht nachkommt und zahlt.
+3. Welches ist der Sinn des Rechtsvorschlags? Warum kann er ohne jede Begründung erhoben werden?
+ 	Grundsätzlich ist es für den Schuldner eine Möglichkeit sich zu wehren. Die Betreibung steht still, bis der Gläubiger das Verfahren fortsetzt. In der Praxis wird häufig auch bei gerechtfertigten Forderungen Rechtsvorschlag erhoben, um damit Zeit zu gewinnen.
+ 	Zu diesem Zeitpunkt sollen dem Schuldner noch keine hohen Hürden auferlegt werden. Zudem kann ja auch der Gläubiger ohne jede Begründung die Betreibung einleiten.
+4. Welches ist das Ziel der Rechtsöffnung?
+ 	Die Beseitigung des Rechtsvorschlages. Nur mit einer provisorischen oder definitiven Rechtsöffnung kann die Betreibung fortgesetzt werden.
+5. A lebt in Olten und arbeitet in Zürich. Seine beruflichen Auslagen betragen 300 Franken pro 
+Monat. Der Mietzins beträgt 1 600 Franken, Die Krankenkassenprämie für sich und seine Familie 900 Franken. A ist verheiratet und Vater von zwei Kindern. Für seinen Lebensunterhalt benötigt die Familie 2 400 Franken pro Monat. 
+A erzielt ein Einkommen von 6 200 Franken pro Monat. Er erhält zusätzlich einen 13.  Monatslohn sowie einen jährlichen Bonus von 5 000 Franken. Kann das Betreibungsamt eine Lohnpfändung vornehmen, und falls ja, wie hoch ist diese?
+ 	Das Einkommen beträgt total 6 200.– Franken plus Anteil 13. Monatslohn (516.– Franken) plus Anteil Bonus (416.– Franken), total 7132.– Franken.
+ 	Das Existenzminimum der Familie beträgt 5 200.– Franken. Pfändbar sind demnach  1 932.– Franken pro Monat.
+Verständnisfragen und Lösungen zu VIII Das Strafrecht? S. 3051. Was verstehen Sie unter dem Begriff «Legalitätsprinzip» im Strafrecht? Welches ist der Sinn dieses Prinzips?
+	 	Niemand kann für eine Tat bestraft werden, die nicht in einem Gesetz vorgesehen ist: 
+«Ohne Gesetz keine Strafe». Dieser Grundsatz findet sich in Art. 1 StGB.
+ 	Die Bürgerinnen und Bürger sollen wissen, welche Taten strafbar sind (Garantiefunktion) und sie sollen vor willkürlicher Strafverfolgung geschützt werden. Der Grundsatz dient damit der Rechtssicherheit und dem Rechtsfrieden.
+2. Welches Rechtsgut wird mit folgenden Tatbeständen geschützt: Art. 146 StGB (Betrug),  Art. 185 StGB (Geiselnahme), Art. 190 StGB (Vergewaltigung), Art. 251 StGB (Urkundenfälschung)?
+– Art. 146 StGB (Betrug): Vermögen
+– Art. 185 StGB (Geiselnahme): Persönliche Freiheit
+– Art. 190 StGB (Vergewaltigung): Sexuelle Selbstbestimmung der Frau
+– Art. 251 StGB (Urkundenfälschung): Vertrauen, welches im Geschäftsleben einer Urkunde entgegengebracht wird
+3. Was sind Rechtfertigungsgründe? Nennen Sie Beispiele.
+ 	Die beiden wichtigsten Rechtfertigungsgründe des StGB sind die Notwehr und der Notstand (Art. 15–18 StGB).
+	 	Beispiele für Notwehr:
+– Eine Frau wird nachts in einer Seitenstrasse von einem Mann angefallen. Dieser versucht unter Androhung von Gewalt, sie zu sexuellen Handlungen zu nötigen. Der Frau gelingt es, nach einem Stein zu greifen und schlägt diesen dem Angreifer auf den Hinterkopf. Der Angreifer ist schwer verletzt. Die Frau handelte in Notwehr und bleibt straffrei, weil sie hochwertige Rechtsgüter verteidigte.
+– Ein Mann erwacht nachts, weil sich in seinem Einfamilienhaus nachts ein Einbrecher zu schaffen macht. Er nimmt eine Pistole, schleicht aus dem Schlafzimmer und schiesst dem Einbrecher ins Bein. Der Mann handelte ebenfalls in Notwehr, allerdings richtete sich in diesem Fall der Angriff auf sein Vermögen und damit auf ein weniger hochrangiges Rechtsgut. Der Mann handelte in einem sogenannten Notwehrexzess und wird bestraft, allerdings milder (Art. 16 Abs. 1 StGB).
+	 	Beispiel für Notstand: 
+– X dringt in eine Alphütte ein, um sich vor einem Schneesturm und vor drohenden Erfrierungen zu schützen.
+4. Welches sind die Unterschiede zwischen Vorsatz und Fahrlässigkeit?
+ 	Der Wille des Täters ist massgeblich für die Unterscheidung. Beim Vorsatz strebt der Täter die Verwirklichung eines bestimmten tatbestandsmässigen Erfolges an (z. B. Raubüberfall). Er handelt also mit Absicht: «wissentlich und willentlich». Der fahrlässig handelnde Täter führt den tatbestandsmässigen Erfolg ungewollt herbei, weil er eine Pflichtwidrigkeit oder eine Unvorsichtigkeit begeht (z. B. Fahrfehler führt zu Verkehrsunfall mit tödlichem Ausgang).
+5. a 	Was ist ein Antragsdelikt?
+ 	b 	 Warum ist Art. 123 Ziff. 1 StGB als Antragsdelikt ausgestaltet, Art. 123 Ziff. 2 StGB dagegen als Offizialdelikt?
+ 	Art. 123 Ziff. 1 StGB bestraft die einfache Körperverletzung, die – im Gegensatz zur schweren Körperverletzung gemäss Art. 122 StGB – eine leichte Form der Körperverletzung darstellt. 
+In solchen Fällen soll der Geschädigte entscheiden, ob er die strafrechtliche Verfolgung des Täters will oder nicht. Deshalb ist die einfache Körperverletzung als Antragsdelikt ausgestaltet.
+ 	Wenn der Täter aber eine Waffe (z. B. Messer oder Schlagring) oder einen gefährlichen Gegenstand (z. B. Baseballschläger) verwendet und damit eine einfache Körperverletzung begeht, kommt es unabhängig vom Willen des Geschädigten zu einem Strafverfahren, weil der Täter ein Werkzeug einsetzt, welches auch eine schwere Körperverletzung hätte herbeiführen können. Sein Verhalten ist deshalb gefährlicher und damit vorwerfbarer. Deshalb handelt es sich hier um ein Offizialdelikt.
+6. Entscheiden Sie mithilfe des StGB, ob es sich bei den folgenden Delikten um ein  Verbrechen, ein Vergehen oder eine Übertretung handelt:
+ 	a 	Totschlag 	Art. 113 StGB Freiheitsstrafe 1 bis 10 Jahre 	Verbrechen  	b Sachentziehung  	Art. 141 StGB Freiheitsstrafe bis 3 Jahre (o. Geldstrafe) 	Vergehen  	c 	Betrug  	Art. 146 StGB Freiheitsstrafe bis zu 5 Jahre (o. Geldstrafe) Verbrechen  	d Beschimpfung  	Art. 177 StGB Geldstrafe bis zu 90 Tagessätzen 	Vergehen  	e 	Urkundenfälschung Art. 251 StGB Freiheitsstrafe bis 5 Jahre (o. Geldstrafe) 	Verbrechen
+7. Kann in folgenden Fällen der bedingte Strafvollzug gewährt werden?
+a Die Strafe beträgt 14 Monate Freiheitsstrafe, der Täter hat sich aufgefangen und geht  einer regelmässigen Arbeit nach.
+ 	Hier kann eine günstige Prognose bejaht werden. Da sich der Täter offensichtlich aufgefangen hat, ist es nicht nötig, ihn ins Gefängnis zu schicken. Die Strafe liegt unter 2 Jahren, so dass auch aus dieser Sicht ein bedingter Strafvollzug möglich ist  (Art. 42 Abs. 1 StGB).
+b Die Strafe beträgt 20 Monate Freiheitsstrafe; der Täter musste während der Dauer des Strafverfahrens zweimal verhaftet werden, weil er wiederholt weitere Straftaten verübte.
+	 	Nein, hier liegt eine ungünstige Prognose vor.
+8. Wann muss ein Verdächtiger aus der Untersuchungshaft entlassen werden?
+ 	Wenn weder Flucht-, Kollusions- (Verdunkelungsgefahr) noch Wiederholungsgefahr besteht, oder wenn die Ermittlungen ergeben haben, dass kein dringender Tatverdacht mehr vorliegt.
+9. Wo wird ein Delikt gerichtlich beurteilt?
+ 	Der Gerichtsstand ist dort, wo ein Delikt verübt wurde. Bei mehreren Delikten ist der Gerichtsstand dort, wo das schwerste Delikt verübt wurde.
+10. Mit welcher Maximalstrafe muss ein Täter rechnen, der wegen Nötigung (Art. 181 StGB) und Drohung (Art. 180 StGB) verurteilt wird?
+ 	Es handelt sich bei Nötigung (Art. 181 StGB) und Drohung (Art. 180 StGB) um zwei Vergehen, die beide mit einer Höchststrafe von drei Jahren Freiheitsstrafe bedroht sind. Die Höchststrafe beträgt demnach 4½ Jahre Freiheitsstrafe, wenn eine Verurteilung wegen beiden Delikten erfolgt (Art. 49 Abs. 1 StGB).
+
+
+
+
+
+
+6
+BWL
+
+5
+BWL
+
+5
+BWL
+
+18
+VWL
+
+19
+VWL
+
+18
+VWL
+
+40
+RECHT
+
+41RECHT
+
+40
+RECHT
+
